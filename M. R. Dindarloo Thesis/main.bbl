@@ -5,6 +5,55 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{hall1997introduction}
+Hall, David~L and Llinas, James.
+\newblock An introduction to multisensor data fusion.
+\newblock {\em Proceedings of the IEEE}, 85(1):6--23, 1997.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{elatta2004overview}
+Elatta, AY, Gen, Li~Pei, Zhi, Fan~Liang, Daoyuan, Yu, and Fei, Luo.
+\newblock An overview of robot calibration.
+\newblock {\em Information Technology Journal}, 3(1):74--78, 2004.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ida2019automatic}
+Id{\'a}, Edoardo, Merlet, Jean-Pierre, and Carricato, Marco.
+\newblock Automatic self-calibration of suspended under-actuated cable-driven
+  parallel robot using incremental measurements.
+\newblock  in {\em Cable-Driven Parallel Robots: Proceedings of the 4th
+  International Conference on Cable-Driven Parallel Robots 4},  pp. 333--344.
+  Springer, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ida2022identification}
+Id{\`a}, Edoardo, Briot, S{\'e}bastien, and Carricato, Marco.
+\newblock Identification of the inertial parameters of underactuated
+  cable-driven parallel robots.
+\newblock {\em Mechanism and Machine Theory}, 167:104504, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ida2021dynamics}
+Ida, Edoardo.
+\newblock Dynamics of undeactuated cable-driven parallel robots.
+\newblock 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{pott2013cable}
 Pott, Andreas and Bruckmann, Tobias.
 \newblock {\em Cable-driven parallel robots}.

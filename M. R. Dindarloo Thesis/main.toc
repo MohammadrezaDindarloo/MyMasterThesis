@@ -7,11 +7,12 @@
 \contentsline {chapter}{\numberline {2}مروری بر مطالعات انجام شده}{3}{chapter.2}%
 \contentsline {chapter}{\numberline {3}موقعیت‌یابی و کالیبراسیون به صورت همزمان یک ربات کابلی با در نظر گرفتن کابل‌ها به صورت جسم صلب}{5}{chapter.3}%
 \contentsline {section}{\numberline {3.1}مقدمه}{5}{section.3.1}%
-\contentsline {chapter}{\numberline {4}موقعیت‌یابی و کالیبراسیون به صورت همزمان یک ربات کابلی با در نظر گرفتن شکم دهی کابل‌ها }{7}{chapter.4}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات برای آینده}{9}{chapter.5}%
-\contentsline {chapter}{مراجع}{11}{chapter*.6}%
+\contentsline {section}{\numberline {3.2}روش های مرسوم موقعیت یابی و کالیبراسیون}{6}{section.3.2}%
+\contentsline {chapter}{\numberline {4}موقعیت‌یابی و کالیبراسیون به صورت همزمان یک ربات کابلی با در نظر گرفتن شکم دهی کابل‌ها }{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات برای آینده}{11}{chapter.5}%
+\contentsline {chapter}{مراجع}{13}{chapter*.7}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {chapter}{\numberline {آ}آشنایی سریع با برخی دستورات لاتک}{13}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {ب}‌جدول، نمودار و الگوریتم در لاتک}{15}{appendix.Alph2}%
-\contentsline {chapter}{\numberline {پ}مراجع، واژه‌نامه و حاشیه‌نویسی}{17}{appendix.Alph3}%
-\contentsline {paragraph}{Keywords}{چهارم}{section*.8}%
+\contentsline {chapter}{\numberline {آ}آشنایی سریع با برخی دستورات لاتک}{15}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {ب}‌جدول، نمودار و الگوریتم در لاتک}{17}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {پ}مراجع، واژه‌نامه و حاشیه‌نویسی}{19}{appendix.Alph3}%
+\contentsline {paragraph}{Keywords}{چهارم}{section*.9}%
