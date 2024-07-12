@@ -13,14 +13,14 @@
 \contentsline {subsection}{\numberline {3.1.2}روش های مرسوم مسئله موقعیت یابی}{8}{subsection.3.1.2}%
 \contentsline {subsection}{\numberline {3.1.3}رویکرد گراف مبنا برای حل مسئله کالیبراسیون و موقعیت یابی به صورت همزمان}{10}{subsection.3.1.3}%
 \contentsline {subsubsection}{\numberline {3.1.3.1}بیان الگوریتم گراف عامل}{11}{subsubsection.3.1.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.3.2}گراف عامل پیشنهادی برای کالیبراسیون و موقعیت یابی به صورت همزمان}{11}{subsubsection.3.1.3.2}%
-\contentsline {subsection}{\numberline {3.1.4}انتخاب ربات مناسب جهت توسعه الگوریتم}{11}{subsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.1.5}توسعه گراف عامل برای یک ربات چهار کابلی فروتحریک با فرض کابل صلب}{12}{subsection.3.1.5}%
-\contentsline {chapter}{\numberline {4}موقعیت‌یابی و کالیبراسیون به صورت همزمان یک ربات کابلی با در نظر گرفتن شکم دهی کابل‌ها }{13}{chapter.4}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات برای آینده}{15}{chapter.5}%
-\contentsline {chapter}{مراجع}{17}{chapter*.7}%
+\contentsline {subsubsection}{\numberline {3.1.3.2}گراف عامل پیشنهادی برای کالیبراسیون و موقعیت یابی به صورت همزمان}{12}{subsubsection.3.1.3.2}%
+\contentsline {subsection}{\numberline {3.1.4}انتخاب ربات مناسب جهت توسعه الگوریتم}{13}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}توسعه گراف عامل برای یک ربات چهار کابلی فروتحریک با فرض کابل صلب}{14}{subsection.3.1.5}%
+\contentsline {chapter}{\numberline {4}موقعیت‌یابی و کالیبراسیون به صورت همزمان یک ربات کابلی با در نظر گرفتن شکم دهی کابل‌ها }{15}{chapter.4}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات برای آینده}{17}{chapter.5}%
+\contentsline {chapter}{مراجع}{19}{chapter*.7}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {chapter}{\numberline {آ}آشنایی سریع با برخی دستورات لاتک}{19}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {ب}‌جدول، نمودار و الگوریتم در لاتک}{21}{appendix.Alph2}%
-\contentsline {chapter}{\numberline {پ}مراجع، واژه‌نامه و حاشیه‌نویسی}{23}{appendix.Alph3}%
+\contentsline {chapter}{\numberline {آ}آشنایی سریع با برخی دستورات لاتک}{21}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {ب}‌جدول، نمودار و الگوریتم در لاتک}{23}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {پ}مراجع، واژه‌نامه و حاشیه‌نویسی}{25}{appendix.Alph3}%
 \contentsline {paragraph}{Keywords}{چهارم}{section*.9}%

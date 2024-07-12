@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.4.26)  29 JUN 2024 21:17
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.4.26)  12 JUL 2024 23:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2899,17 +2899,42 @@ Overfull \hbox (0.55284pt too wide) in paragraph at lines 132--135
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
 
- [11] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 3557) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+ [11]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+
+Overfull \hbox (6.24112pt too wide) in paragraph at lines 180--195
+[]\TU/IRLotusICEE.ttf(1)/b/n/12 می‌باشد. علاوه بر تعیین چارچوب پایه در حل مسئله
+ موقعیت‌یابی، محدودیت‌ها نیز می‌توانند شامل اندازه‌گیری‌های[]
+ []
+
+\openout5 = `main.mw'.
+
+[12] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+
+LaTeX Warning: Citation `yang2022indoor. song2021tightly' on page 13 undefined 
+on input line 205.
+
+\openout5 = `main.mw'.
+
+[13] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -2919,7 +2944,7 @@ Overfull \hbox (0.55284pt too wide) in paragraph at lines 132--135
 )
 \openout5 = `main.mw'.
 
- [12] (./main.mw)
+ [14] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -2933,7 +2958,7 @@ Overfull \hbox (0.55284pt too wide) in paragraph at lines 132--135
 )
 \openout5 = `main.mw'.
 
- [13
+ [15
 
 
 
@@ -2949,7 +2974,7 @@ Overfull \hbox (0.55284pt too wide) in paragraph at lines 132--135
  (./tex/chapter5.tex
 \openout5 = `main.mw'.
 
- [14
+ [16
 
 
 
@@ -2961,7 +2986,7 @@ Overfull \hbox (0.55284pt too wide) in paragraph at lines 132--135
 )
 \openout5 = `main.mw'.
 
- [15] (./main.mw)
+ [17] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -2971,7 +2996,7 @@ Overfull \hbox (0.55284pt too wide) in paragraph at lines 132--135
  (./main.bbl
 \openout5 = `main.mw'.
 
- [16
+ [18
 
 
 ] (./main.mw)
@@ -2984,7 +3009,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 (Font)              scaled to size 10.95pt on input line 11.
 \openout5 = `main.mw'.
 
- [17] (./main.mw)
+ [19] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -2994,7 +3019,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 )
 \openout5 = `main.mw'.
 
- [18]
+ [20]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -3005,7 +3030,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 )
 \openout5 = `main.mw'.
 
- [19
+ [21
 
 
 ] (./main.mw)
@@ -3020,7 +3045,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
  (./tex/appendix2.tex
 \openout5 = `main.mw'.
 
- [20
+ [22
 
 
 
@@ -3032,7 +3057,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 )
 \openout5 = `main.mw'.
 
- [21] (./main.mw)
+ [23] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3044,7 +3069,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
  (./tex/appendix3.tex
 \openout5 = `main.mw'.
 
- [22
+ [24
 
 
 
@@ -3056,7 +3081,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 )
 \openout5 = `main.mw'.
 
- [23] (./main.mw)
+ [25] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3065,7 +3090,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 
 \openout5 = `main.mw'.
 
- [24
+ [26
 
 
 ] (./main.mw)
@@ -3348,6 +3373,9 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
 \openout5 = `main.glo'.
@@ -3370,12 +3398,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 39180 strings out of 479819
- 741576 string characters out of 5895846
+ 39197 strings out of 479819
+ 741769 string characters out of 5895846
  1182432 words of memory out of 5000000
- 55120 multiletter control sequences out of 15000+600000
- 543048 words of font info for 135 fonts, out of 8000000 for 9000
+ 55130 multiletter control sequences out of 15000+600000
+ 543975 words of font info for 138 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  76i,12n,92p,4840b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (49 pages).
+Output written on main.pdf (51 pages).

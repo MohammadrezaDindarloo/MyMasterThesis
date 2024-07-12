@@ -114,6 +114,17 @@ Panigrahi, Prabin~Kumar and Bisoy, Sukant~Kishoro.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{leitinger2017factor}
+Leitinger, Erik, Meyer, Florian, Tufvesson, Fredrik, and Witrisal, Klaus.
+\newblock Factor graph based simultaneous localization and mapping using
+  multipath channel information.
+\newblock  in {\em 2017 IEEE International Conference on Communications
+  Workshops (ICC Workshops)},  pp. 652--658. IEEE, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{pott2013cable}
 Pott, Andreas and Bruckmann, Tobias.
 \newblock {\em Cable-driven parallel robots}.
