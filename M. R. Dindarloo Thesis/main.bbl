@@ -114,6 +114,25 @@ Panigrahi, Prabin~Kumar and Bisoy, Sukant~Kishoro.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{yang2022indoor}
+Yang, Lyuxiao, Wu, Nan, Li, Bin, Yuan, Weijie, and Hanzo, Lajos.
+\newblock Indoor localization based on factor graphs: A unified framework.
+\newblock {\em IEEE Internet of Things Journal}, 10(5):4353--4366, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{song2021tightly}
+Song, Yang and Hsu, Li-Ta.
+\newblock Tightly coupled integrated navigation system via factor graph for uav
+  indoor localization.
+\newblock {\em Aerospace Science and Technology}, 108:106370, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{leitinger2017factor}
 Leitinger, Erik, Meyer, Florian, Tufvesson, Fredrik, and Witrisal, Klaus.
 \newblock Factor graph based simultaneous localization and mapping using

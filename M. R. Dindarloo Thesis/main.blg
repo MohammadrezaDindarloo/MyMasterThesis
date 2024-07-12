@@ -4,10 +4,6 @@ The top-level auxiliary file: main.aux
 A level-1 auxiliary file: ./tex/chapter1.aux
 A level-1 auxiliary file: ./tex/chapter2.aux
 A level-1 auxiliary file: ./tex/chapter3.aux
-White space in argument---line 54 of file ./tex/chapter3.aux
- : \citation{yang2022indoor.
- :                           song2021tightly}
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: ./tex/chapter4.aux
 A level-1 auxiliary file: ./tex/chapter5.aux
 The style file: unsrt-fa.bst
@@ -20,45 +16,45 @@ Database file #1: ./tex/MyReferences.bib
 Warning--empty journal in ida2021dynamics
 
 Done.
-You've used 13 entries,
+You've used 15 entries,
             2198 wiz_defined-function locations,
-            660 strings with 7289 characters,
-and the built_in function-call counts, 3920 in all, are:
-= -- 354
-> -- 142
+            673 strings with 7651 characters,
+and the built_in function-call counts, 4462 in all, are:
+= -- 399
+> -- 167
 < -- 4
-+ -- 52
-- -- 39
-* -- 258
-:= -- 545
-add.period$ -- 43
-call.type$ -- 13
-change.case$ -- 12
++ -- 61
+- -- 46
+* -- 300
+:= -- 628
+add.period$ -- 49
+call.type$ -- 15
+change.case$ -- 14
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 167
-empty$ -- 354
-format.name$ -- 39
-if$ -- 938
+cite$ -- 16
+duplicate$ -- 185
+empty$ -- 402
+format.name$ -- 46
+if$ -- 1059
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 61
-newline$ -- 123
-num.names$ -- 13
-pop$ -- 43
+int.to.str$ -- 15
+missing$ -- 69
+newline$ -- 141
+num.names$ -- 15
+pop$ -- 45
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 87
+skip$ -- 94
 stack$ -- 0
-substring$ -- 301
-swap$ -- 54
+substring$ -- 350
+swap$ -- 56
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 1
-while$ -- 38
-width$ -- 15
-write$ -- 188
-(There was 1 error message)
+while$ -- 43
+width$ -- 17
+write$ -- 216
+(There was 1 warning)
