@@ -19,7 +19,7 @@
 \contentsline {section}{\numberline {4.1}انتخاب ربات مناسب جهت توسعه الگوریتم}{19}{section.4.1}%
 \contentsline {section}{\numberline {4.2}توسعه گراف عامل برای یک ربات چهار کابلی با فرض کابل صلب}{20}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}معرفی ربات کابلی ARASCam}{21}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}بیان فرمول‌بندی مسئله و فرضیات}{22}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.2}بیان فرمول‌بندی مسئله و فرضیات}{21}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}رویت‌پذیری}{23}{subsection.4.2.3}%
 \contentsline {section}{\numberline {4.3}بهینه‌سازی پارامترها با استفاده از گراف‌های عاملی}{24}{section.4.3}%
 \contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات برای آینده}{27}{chapter.5}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.4.26)  27 JUL 2024 20:51
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.4.26)  27 JUL 2024 20:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3004,7 +3004,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (2.69974pt too wide) in paragraph at lines 15--15
+Overfull \hbox (2.69974pt too wide) in paragraph at lines 16--16
 [][]\TU/IRLotusICEE.ttf(0)/b/n/17.28 توسعه گراف عامل برای یک ربات چهار کابلی با
  فرض کابل صلب []
  []
@@ -3024,35 +3024,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+ [21] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [22] (./main.mw)
+\openout5 = `main.mw'.
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [21]
+ [23]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [22]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [23] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3069,7 +3065,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (2.87318pt too wide) in paragraph at lines 193--194
+Overfull \hbox (2.87318pt too wide) in paragraph at lines 195--196
 []\TU/IRLotusICEE.ttf(1)/b/n/12 حرکت افقی حل شود. این مهم است زیرا گرافی که در 
 طول کالیبراسیون استفاده می‌شود، می‌تواند برای محلی‌سازی[]
  []
