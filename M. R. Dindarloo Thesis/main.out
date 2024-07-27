@@ -6,21 +6,23 @@
 \BOOKMARK [0][-]{chapter.2}{مروری بر مطالعات انجام شده}{}% 6
 \BOOKMARK [0][-]{chapter.3}{رویکرد گراف مبنا موقعیت‌یابی و کالیبراسیون به صورت همزمان}{}% 7
 \BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 8
-\BOOKMARK [2][-]{subsection.3.1.1}{روش های مرسوم مسئله کالیبراسیون}{section.3.1}% 9
-\BOOKMARK [3][-]{subsubsection.3.1.1.1}{ترکیب حسگر ها}{subsection.3.1.1}% 10
-\BOOKMARK [3][-]{subsubsection.3.1.1.2}{ترکیب شبه اندازه گیری ها}{subsection.3.1.1}% 11
-\BOOKMARK [2][-]{subsection.3.1.2}{روش های مرسوم مسئله موقعیت یابی}{section.3.1}% 12
-\BOOKMARK [2][-]{subsection.3.1.3}{رویکرد گراف مبنا برای حل مسئله کالیبراسیون و موقعیت یابی به صورت همزمان}{section.3.1}% 13
-\BOOKMARK [3][-]{subsubsection.3.1.3.1}{بیان الگوریتم گراف عامل}{subsection.3.1.3}% 14
-\BOOKMARK [3][-]{subsubsection.3.1.3.2}{گراف عامل پیشنهادی برای کالیبراسیون و موقعیت یابی به صورت همزمان}{subsection.3.1.3}% 15
-\BOOKMARK [2][-]{subsection.3.1.4}{نتیجه‌گیری}{section.3.1}% 16
+\BOOKMARK [1][-]{section.3.2}{روش های مرسوم مسئله کالیبراسیون}{chapter.3}% 9
+\BOOKMARK [2][-]{subsection.3.2.1}{ترکیب حسگر ها}{section.3.2}% 10
+\BOOKMARK [2][-]{subsection.3.2.2}{ترکیب شبه اندازه گیری ها}{section.3.2}% 11
+\BOOKMARK [1][-]{section.3.3}{روش های مرسوم مسئله موقعیت یابی}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.4}{رویکرد گراف مبنا برای حل مسئله کالیبراسیون و موقعیت یابی به صورت همزمان}{chapter.3}% 13
+\BOOKMARK [2][-]{subsection.3.4.1}{بیان الگوریتم گراف عامل}{section.3.4}% 14
+\BOOKMARK [2][-]{subsection.3.4.2}{گراف عامل پیشنهادی برای کالیبراسیون و موقعیت یابی به صورت همزمان}{section.3.4}% 15
+\BOOKMARK [1][-]{section.3.5}{نتیجه‌گیری}{chapter.3}% 16
 \BOOKMARK [0][-]{chapter.4}{پیاده سازی رویکرد گراف مبنا جهت موقعیت‌یابی و کالیبراسیون به صورت همزمان برای ربات کابلی}{}% 17
 \BOOKMARK [1][-]{section.4.1}{انتخاب ربات مناسب جهت توسعه الگوریتم}{chapter.4}% 18
 \BOOKMARK [1][-]{section.4.2}{توسعه گراف عامل برای یک ربات چهار کابلی با فرض کابل صلب}{chapter.4}% 19
 \BOOKMARK [2][-]{subsection.4.2.1}{معرفی ربات کابلی ARASCam}{section.4.2}% 20
 \BOOKMARK [2][-]{subsection.4.2.2}{بیان فرمول‌بندی مسئله و فرضیات}{section.4.2}% 21
-\BOOKMARK [0][-]{chapter.5}{نتیجه‌گیری و پیشنهادات برای آینده}{}% 22
-\BOOKMARK [0][-]{chapter*.11}{مراجع}{}% 23
-\BOOKMARK [0][-]{appendix.Alph1}{آشنایی سریع با برخی دستورات لاتک}{}% 24
-\BOOKMARK [0][-]{appendix.Alph2}{‌جدول، نمودار و الگوریتم در لاتک}{}% 25
-\BOOKMARK [0][-]{appendix.Alph3}{مراجع، واژه‌نامه و حاشیه‌نویسی}{}% 26
+\BOOKMARK [2][-]{subsection.4.2.3}{رویت‌پذیری}{section.4.2}% 22
+\BOOKMARK [1][-]{section.4.3}{بهینه‌سازی پارامترها با استفاده از گراف‌های عاملی}{chapter.4}% 23
+\BOOKMARK [0][-]{chapter.5}{نتیجه‌گیری و پیشنهادات برای آینده}{}% 24
+\BOOKMARK [0][-]{chapter*.13}{مراجع}{}% 25
+\BOOKMARK [0][-]{appendix.Alph1}{آشنایی سریع با برخی دستورات لاتک}{}% 26
+\BOOKMARK [0][-]{appendix.Alph2}{‌جدول، نمودار و الگوریتم در لاتک}{}% 27
+\BOOKMARK [0][-]{appendix.Alph3}{مراجع، واژه‌نامه و حاشیه‌نویسی}{}% 28

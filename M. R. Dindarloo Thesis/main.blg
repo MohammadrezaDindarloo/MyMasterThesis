@@ -16,45 +16,45 @@ Database file #1: ./tex/MyReferences.bib
 Warning--empty journal in ida2021dynamics
 
 Done.
-You've used 15 entries,
+You've used 19 entries,
             2198 wiz_defined-function locations,
-            673 strings with 7651 characters,
-and the built_in function-call counts, 4462 in all, are:
-= -- 399
-> -- 167
-< -- 4
-+ -- 61
-- -- 46
-* -- 300
-:= -- 628
-add.period$ -- 49
-call.type$ -- 15
-change.case$ -- 14
+            698 strings with 8796 characters,
+and the built_in function-call counts, 6107 in all, are:
+= -- 543
+> -- 244
+< -- 7
++ -- 88
+- -- 69
+* -- 406
+:= -- 848
+add.period$ -- 64
+call.type$ -- 19
+change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 185
-empty$ -- 402
-format.name$ -- 46
-if$ -- 1059
+cite$ -- 20
+duplicate$ -- 261
+empty$ -- 546
+format.name$ -- 69
+if$ -- 1468
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 69
-newline$ -- 141
-num.names$ -- 15
-pop$ -- 45
+int.to.str$ -- 19
+missing$ -- 90
+newline$ -- 177
+num.names$ -- 19
+pop$ -- 64
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 94
+skip$ -- 142
 stack$ -- 0
-substring$ -- 350
-swap$ -- 56
-text.length$ -- 4
+substring$ -- 466
+swap$ -- 93
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 1
-while$ -- 43
-width$ -- 17
-write$ -- 216
+while$ -- 57
+width$ -- 21
+write$ -- 275
 (There was 1 warning)

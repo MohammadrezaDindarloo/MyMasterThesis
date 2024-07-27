@@ -144,10 +144,55 @@ Leitinger, Erik, Meyer, Florian, Tufvesson, Fredrik, and Witrisal, Klaus.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{pott2013cable}
-Pott, Andreas and Bruckmann, Tobias.
-\newblock {\em Cable-driven parallel robots}.
-\newblock Springer, 2013.
+\bibitem{wilbers2019localization}
+Wilbers, Daniel, Merfels, Christian, and Stachniss, Cyrill.
+\newblock Localization with sliding window factor graphs on third-party maps
+  for automated driving.
+\newblock  in {\em 2019 International conference on robotics and automation
+  (ICRA)},  pp. 5951--5957. IEEE, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{dai2022uav}
+Dai, Jun, Liu, Songlin, Hao, Xiangyang, Ren, Zongbin, and Yang, Xiao.
+\newblock Uav localization algorithm based on factor graph optimization in
+  complex scenes.
+\newblock {\em Sensors}, 22(15):5862, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{hassani2021kinematic}
+Hassani, A, Dindarloo, MR, Khorambakht, R, Bataleblu, A, Sadeghi, H, Heidari,
+  R, Iranfar, A, Hasani, P, Hojati, NS, Khorasani, A, et~al.
+\newblock Kinematic and dynamic analysis of arash asist: Toward micro
+  positioning.
+\newblock  in {\em 2021 9th RSI International Conference on Robotics and
+  Mechatronics (ICRoM)},  pp. 59--65. IEEE, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Forster2014ICRA}
+Forster, Christian, Pizzoli, Matia, and Scaramuzza, Davide.
+\newblock {SVO}: Fast semi-direct monocular visual odometry.
+\newblock  in {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{blueml2021bias}
+Blueml, Julian, Fornasier, Alessandro, and Weiss, Stephan.
+\newblock Bias compensated uwb anchor initialization using
+  information-theoretic supported triangulation points.
+\newblock  in {\em 2021 IEEE International Conference on Robotics and
+  Automation (ICRA)},  pp. 5490--5496. IEEE, 2021.
 
 \end{LTRbibitems}
 
