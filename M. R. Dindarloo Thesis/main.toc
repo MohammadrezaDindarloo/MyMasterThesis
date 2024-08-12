@@ -15,17 +15,24 @@
 \contentsline {subsection}{\numberline {3.4.1}بیان الگوریتم گراف عامل}{11}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}گراف عامل پیشنهادی برای کالیبراسیون و موقعیت یابی به صورت همزمان}{12}{subsection.3.4.2}%
 \contentsline {section}{\numberline {3.5}نتیجه‌گیری}{17}{section.3.5}%
-\contentsline {chapter}{\numberline {4}پیاده سازی رویکرد گراف مبنا جهت موقعیت‌یابی و کالیبراسیون به صورت همزمان برای ربات کابلی}{19}{chapter.4}%
+\contentsline {chapter}{\numberline {4}پیاده سازی رویکرد گراف مبنا جهت موقعیت‌یابی و کالیبراسیون همزمان برای ربات کابلی صلب}{19}{chapter.4}%
 \contentsline {section}{\numberline {4.1}انتخاب ربات مناسب جهت توسعه الگوریتم}{19}{section.4.1}%
 \contentsline {section}{\numberline {4.2}توسعه گراف عامل برای یک ربات چهار کابلی با فرض کابل صلب}{20}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}معرفی ربات کابلی ARASCam}{21}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.1}معرفی ربات کابلی ARASCam}{20}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}بیان فرمول‌بندی مسئله و فرضیات}{21}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}رویت‌پذیری}{23}{subsection.4.2.3}%
 \contentsline {section}{\numberline {4.3}بهینه‌سازی پارامترها با استفاده از گراف‌های عاملی}{24}{section.4.3}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات برای آینده}{27}{chapter.5}%
-\contentsline {chapter}{مراجع}{29}{chapter*.13}%
+\contentsline {section}{\numberline {4.4}نتایج پیاده‌سازی}{25}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}راه‌اندازی سیستم و فرضیات}{26}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}کالیبراسیون خودکار بدون پارامترهای اولیه}{26}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}ترکیب بینایی-سینماتیک و استفاده از گراف عامل معرفی شده}{27}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}انتشار عدم قطعیت}{29}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}بحث و گفت‌وگو}{30}{subsection.4.4.5}%
+\contentsline {chapter}{\numberline {5}کابل شکم دار}{33}{chapter.5}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات برای آینده}{35}{chapter.6}%
+\contentsline {chapter}{مراجع}{37}{chapter*.19}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {chapter}{\numberline {آ}آشنایی سریع با برخی دستورات لاتک}{31}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {ب}‌جدول، نمودار و الگوریتم در لاتک}{33}{appendix.Alph2}%
-\contentsline {chapter}{\numberline {پ}مراجع، واژه‌نامه و حاشیه‌نویسی}{35}{appendix.Alph3}%
-\contentsline {paragraph}{Keywords}{چهارم}{section*.15}%
+\contentsline {chapter}{\numberline {آ}آشنایی سریع با برخی دستورات لاتک}{41}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {ب}‌جدول، نمودار و الگوریتم در لاتک}{43}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {پ}مراجع، واژه‌نامه و حاشیه‌نویسی}{45}{appendix.Alph3}%
+\contentsline {paragraph}{Keywords}{چهارم}{section*.21}%

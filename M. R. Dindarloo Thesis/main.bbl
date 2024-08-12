@@ -196,4 +196,46 @@ Blueml, Julian, Fornasier, Alessandro, and Weiss, Stephan.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{khorrambakht2023graph}
+Khorrambakht, Rooholla, Damirchi, Hamed, Dindarloo, MR, Saki, A, Khalilpour,
+  SA, Taghirad, Hamid~D, and Weiss, Stephan.
+\newblock Graph-based visual-kinematic fusion and monte carlo initialization
+  for fast-deployable cable-driven robots.
+\newblock  in {\em 2023 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)},  pp. 1832--1839. IEEE, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{dellaert2012factor}
+Dellaert, Frank.
+\newblock Factor graphs and gtsam: A hands-on introduction.
+\newblock {\em Georgia Institute of Technology, Tech. Rep}, 2:4, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{allak2022kinematics}
+Allak, Eren, Khorrambakht, Rooholla, Brommer, Christian, and Weiss, Stephan.
+\newblock Kinematics-inertial fusion for localization of a 4-cable
+  underactuated suspended robot considering cable sag.
+\newblock  in {\em 2022 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)},  pp. 4989--4996. IEEE, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{martiros2022symforce}
+Martiros, Hayk, Miller, Aaron, Bucki, Nathan, Solliday, Bradley, Kennedy, Ryan,
+  Zhu, Jack, Dang, Tung, Pattison, Dominic, Zheng, Harrison, Tomic, Teo, et~al.
+\newblock Symforce: Symbolic computation and code generation for robotics.
+\newblock {\em arXiv preprint arXiv:2204.07889}, 2022.
+
+\end{LTRbibitems}
+
 \end{thebibliography}

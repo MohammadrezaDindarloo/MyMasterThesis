@@ -6,6 +6,7 @@ A level-1 auxiliary file: ./tex/chapter2.aux
 A level-1 auxiliary file: ./tex/chapter3.aux
 A level-1 auxiliary file: ./tex/chapter4.aux
 A level-1 auxiliary file: ./tex/chapter5.aux
+A level-1 auxiliary file: ./tex/chapter6.aux
 The style file: unsrt-fa.bst
 A level-1 auxiliary file: ./tex/appendix1.aux
 A level-1 auxiliary file: ./tex/appendix2.aux
@@ -16,45 +17,45 @@ Database file #1: ./tex/MyReferences.bib
 Warning--empty journal in ida2021dynamics
 
 Done.
-You've used 19 entries,
+You've used 23 entries,
             2198 wiz_defined-function locations,
-            698 strings with 8796 characters,
-and the built_in function-call counts, 6107 in all, are:
-= -- 543
-> -- 244
-< -- 7
-+ -- 88
-- -- 69
-* -- 406
-:= -- 848
-add.period$ -- 64
-call.type$ -- 19
-change.case$ -- 19
+            719 strings with 9890 characters,
+and the built_in function-call counts, 7504 in all, are:
+= -- 660
+> -- 320
+< -- 9
++ -- 115
+- -- 92
+* -- 492
+:= -- 1048
+add.period$ -- 78
+call.type$ -- 23
+change.case$ -- 23
 chr.to.int$ -- 0
-cite$ -- 20
-duplicate$ -- 261
-empty$ -- 546
-format.name$ -- 69
-if$ -- 1468
+cite$ -- 24
+duplicate$ -- 324
+empty$ -- 659
+format.name$ -- 92
+if$ -- 1805
 int.to.chr$ -- 0
-int.to.str$ -- 19
-missing$ -- 90
-newline$ -- 177
-num.names$ -- 19
-pop$ -- 64
+int.to.str$ -- 23
+missing$ -- 109
+newline$ -- 213
+num.names$ -- 23
+pop$ -- 80
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 142
+skip$ -- 182
 stack$ -- 0
-substring$ -- 466
-swap$ -- 93
-text.length$ -- 7
+substring$ -- 549
+swap$ -- 121
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 1
-while$ -- 57
-width$ -- 21
-write$ -- 275
+while$ -- 68
+width$ -- 25
+write$ -- 332
 (There was 1 warning)

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.4.26)  27 JUL 2024 20:55
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.4.26)  12 AUG 2024 20:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1831,8 +1831,8 @@ Package glossaries Info: Writing glossary file main.blo on input line 60.
 )
 (./tex/words.tex) (./tex/acronyms.tex) (./main.aux (./tex/chapter1.aux)
 (./tex/chapter2.aux) (./tex/chapter3.aux) (./tex/chapter4.aux)
-(./tex/chapter5.aux) (./tex/appendix1.aux) (./tex/appendix2.aux)
-(./tex/appendix3.aux)
+(./tex/chapter5.aux) (./tex/chapter6.aux) (./tex/appendix1.aux)
+(./tex/appendix2.aux) (./tex/appendix3.aux)
 
 LaTeX Warning: Label `LastPage' multiply defined.
 
@@ -3004,26 +3004,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (2.69974pt too wide) in paragraph at lines 16--16
+Overfull \hbox (2.69974pt too wide) in paragraph at lines 14--14
 [][]\TU/IRLotusICEE.ttf(0)/b/n/17.28 توسعه گراف عامل برای یک ربات چهار کابلی با
  فرض کابل صلب []
  []
 
+\openout5 = `main.mw'.
+
+[20] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 File: img/arascam.pdf Graphic file (type pdf)
 <use img/arascam.pdf>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [20]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
  [21] (./main.mw)
@@ -3033,28 +3033,30 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [22] (./main.mw)
-\openout5 = `main.mw'.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [23]
+ [22]
 (./main.mw)
 \openout5 = `main.mw'.
 
+
+Overfull \vbox (2.81503pt too high) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+
+[23] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+File: img/rigidcable_factorgraph.pdf Graphic file (type pdf)
+<use img/rigidcable_factorgraph.pdf>
 \openout5 = `main.mw'.
 
  [24] (./main.mw)
@@ -3065,23 +3067,96 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (2.87318pt too wide) in paragraph at lines 195--196
-[]\TU/IRLotusICEE.ttf(1)/b/n/12 حرکت افقی حل شود. این مهم است زیرا گرافی که در 
-طول کالیبراسیون استفاده می‌شود، می‌تواند برای محلی‌سازی[]
+Underfull \vbox (badness 2809) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [25]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Overfull \hbox (5.2638pt too wide) in paragraph at lines 258--261
+[]\TU/IRLotusICEE.ttf(1)/b/n/12 ماتریس‌های کوواریانس نویز در دست داشته باشیم.رو
+شی که برای دستیابی به این موارد معرفی می کنیم، الگوریتمی[]
  []
+
+\openout5 = `main.mw'.
+
+[26] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+File: img/monte_carlo.pdf Graphic file (type pdf)
+<use img/monte_carlo.pdf>
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/b/n' will be
+(Font)              scaled to size 11.99997pt on input line 297.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
+(Font)              scaled to size 5.99998pt on input line 297.
+\openout5 = `main.mw'.
+
+ [27] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+File: img/calibration_result_rigid.pdf Graphic file (type pdf)
+<use img/calibration_result_rigid.pdf>
+
+Overfull \vbox (9.82257pt too high) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+
+[28] (./main.mw)
+\openout5 = `main.mw'.
+
+File: img/trajectory_and_pully_in_rigid_cable.pdf Graphic file (type pdf)
+<use img/trajectory_and_pully_in_rigid_cable.pdf>
+\openout5 = `main.mw'.
+
+ [29] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [30] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
 
 )
 \openout5 = `main.mw'.
 
- [25] (./main.mw)
+ [31] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/chapter5.aux'.
 
- (./tex/chapter5.tex
+
+(./tex/chapter5.tex
 \openout5 = `main.mw'.
 
- [26
+ [32
 
 
 
@@ -3093,7 +3168,31 @@ Overfull \hbox (2.87318pt too wide) in paragraph at lines 195--196
 )
 \openout5 = `main.mw'.
 
- [27] (./main.mw)
+ [33] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout2 = `./tex/chapter6.aux'.
+
+ (./tex/chapter6.tex
+\openout5 = `main.mw'.
+
+ [34
+
+
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+
+فصل 6.
+)
+\openout5 = `main.mw'.
+
+ [35] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3103,7 +3202,7 @@ Overfull \hbox (2.87318pt too wide) in paragraph at lines 195--196
  (./main.bbl
 \openout5 = `main.mw'.
 
- [28
+ [36
 
 
 ] (./main.mw)
@@ -3116,31 +3215,42 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 (Font)              scaled to size 10.95pt on input line 11.
 \openout5 = `main.mw'.
 
- [29] (./main.mw)
+ [37] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [38]
+(./main.mw)
 \openout5 = `main.mw'.
 
 )
 \openout5 = `main.mw'.
 
- [30]
-(./main.mw)
+ [39] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/appendix1.aux'.
 
  (./tex/appendix1.tex
+\openout5 = `main.mw'.
+
+ [40
+
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+
 پیوست آ.
 )
 \openout5 = `main.mw'.
 
- [31
-
-
-] (./main.mw)
+ [41] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3152,7 +3262,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
  (./tex/appendix2.tex
 \openout5 = `main.mw'.
 
- [32
+ [42
 
 
 
@@ -3164,7 +3274,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 )
 \openout5 = `main.mw'.
 
- [33] (./main.mw)
+ [43] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3176,7 +3286,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
  (./tex/appendix3.tex
 \openout5 = `main.mw'.
 
- [34
+ [44
 
 
 
@@ -3188,7 +3298,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 )
 \openout5 = `main.mw'.
 
- [35] (./main.mw)
+ [45] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3197,7 +3307,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 
 \openout5 = `main.mw'.
 
- [36
+ [46
 
 
 ] (./main.mw)
@@ -3242,13 +3352,13 @@ No file main.ind.
 \openout5 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 94.
+(Font)              scaled to size 17.28pt on input line 95.
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 94.
+(Font)              scaled to size 17.28pt on input line 95.
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 94.
+(Font)              scaled to size 12.0pt on input line 95.
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 94.
+(Font)              scaled to size 8.0pt on input line 95.
 \openout5 = `main.mw'.
 
  [4] (./main.mw)
@@ -3264,13 +3374,13 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
 File: ./img/logo-en.png Graphic file (type bmp)
 <./img/logo-en.png>
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
-(Font)              scaled to size 10.95pt on input line 95.
+(Font)              scaled to size 10.95pt on input line 96.
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 95.
+(Font)              scaled to size 14.4pt on input line 96.
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 95.
+(Font)              scaled to size 24.88pt on input line 96.
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 95.
+(Font)              scaled to size 24.88pt on input line 96.
 
 
 AED: lastpage setting LastPage
@@ -3281,8 +3391,8 @@ AED: lastpage setting LastPage
 ] (./main.mw)
 \openout5 = `main.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
  (./main.aux
 \openout5 = `main.mw'.
 
@@ -3445,7 +3555,69 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 ) (./tex/chapter5.aux
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+)
+(./tex/chapter6.aux
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3467,8 +3639,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
 
 \openout5 = `main.mw'.
 
-
-(./tex/appendix1.aux
+ (./tex/appendix1.aux
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3494,7 +3665,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
 
 \openout5 = `main.mw'.
 
-) (./tex/appendix3.aux
+)
+(./tex/appendix3.aux
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3513,12 +3685,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
 \openout5 = `main.mw'.
 
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 99.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 100.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
 \openout5 = `main.out'.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1B55AE3E47854AFFD20AB724970C63A2;2802.
+(rerunfilecheck)             Checksum: AEDC4BD35BA5E980F8114F42D3BAA725;3480.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -3546,12 +3718,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 39289 strings out of 479819
- 744040 string characters out of 5895846
+ 39389 strings out of 479819
+ 746470 string characters out of 5895846
  1182432 words of memory out of 5000000
- 55196 multiletter control sequences out of 15000+600000
- 543975 words of font info for 138 fonts, out of 8000000 for 9000
+ 55261 multiletter control sequences out of 15000+600000
+ 544007 words of font info for 142 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  76i,19n,92p,4840b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (61 pages).
+Output written on main.pdf (71 pages).
