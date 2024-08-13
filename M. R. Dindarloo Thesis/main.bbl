@@ -238,4 +238,64 @@ Martiros, Hayk, Miller, Aaron, Bucki, Nathan, Solliday, Bradley, Kennedy, Ryan,
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ida2021natural}
+Id{\`a}, Edoardo, Briot, S{\'e}bastien, and Carricato, Marco.
+\newblock Natural oscillations of underactuated cable-driven parallel robots.
+\newblock {\em IEEE Access}, 9:71660--71672, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{pott2013cable}
+Pott, Andreas and Bruckmann, Tobias.
+\newblock {\em Cable-driven parallel robots}.
+\newblock Springer, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{carricato2013direct}
+Carricato, Marco.
+\newblock Direct geometrico-static problem of underconstrained cable-driven
+  parallel robots with three cables.
+\newblock {\em Journal of Mechanisms and Robotics}, 5(3):031008, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{borgstrom2009nims}
+Borgstrom, Per~Henrik, Jordan, Brett~L, Borgstrom, Bengt~J, Stealey, Michael~J,
+  Sukhatme, Gaurav~S, Batalin, Maxim~A, and Kaiser, William~J.
+\newblock Nims-pl: A cable-driven robot with self-calibration capabilities.
+\newblock {\em IEEE Transactions on Robotics}, 25(5):1005--1015, 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{functionbay}
+{FunctionBay, Inc.}
+\newblock Recurdyn: Multi-body dynamics cae software.
+\newblock \url{https://functionbay.com/en/page/single/2/recurdyn-overview},
+  2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Martiros-RSS-22}
+Martiros, Hayk, Miller, Aaron, Bucki, Nathan, Solliday, Bradley, Kennedy, Ryan,
+  Zhu, Jack, Dang, Tung, Pattison, Dominic, Zheng, Harrison, Tomic, Teo, Henry,
+  Peter, Cross, Gareth, VanderMey, Josiah, Sun, Alvin, Wang, Samuel, and Holtz,
+  Kristen.
+\newblock {SymForce: Symbolic Computation and Code Generation for Robotics}.
+\newblock  in {\em Proceedings of Robotics: Science and Systems}, 2022.
+
+\end{LTRbibitems}
+
 \end{thebibliography}

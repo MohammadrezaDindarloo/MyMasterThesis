@@ -12,50 +12,70 @@ A level-1 auxiliary file: ./tex/appendix1.aux
 A level-1 auxiliary file: ./tex/appendix2.aux
 A level-1 auxiliary file: ./tex/appendix3.aux
 Database file #1: ./tex/MyReferences.bib
+Repeated entry---line 269 of file ./tex/MyReferences.bib
+ : @inproceedings{ida2019automatic
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 363 of file ./tex/MyReferences.bib
+ : @inproceedings{khorrambakht2023graph
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 411 of file ./tex/MyReferences.bib
+ : @book{pott2013cable
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 418 of file ./tex/MyReferences.bib
+ : @inproceedings{allak2022kinematics
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 503 of file ./tex/MyReferences.bib
+ : @article{dellaert2012factor
+ :                            ,
+I'm skipping whatever remains of this entry
 -- unsrt-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 Warning--empty journal in ida2021dynamics
 
 Done.
-You've used 23 entries,
+You've used 29 entries,
             2198 wiz_defined-function locations,
-            719 strings with 9890 characters,
-and the built_in function-call counts, 7504 in all, are:
-= -- 660
-> -- 320
+            749 strings with 11106 characters,
+and the built_in function-call counts, 9061 in all, are:
+= -- 768
+> -- 420
 < -- 9
-+ -- 115
-- -- 92
-* -- 492
-:= -- 1048
-add.period$ -- 78
-call.type$ -- 23
-change.case$ -- 23
++ -- 151
+- -- 122
+* -- 603
+:= -- 1293
+add.period$ -- 96
+call.type$ -- 29
+change.case$ -- 28
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 324
-empty$ -- 659
-format.name$ -- 92
-if$ -- 1805
+cite$ -- 30
+duplicate$ -- 378
+empty$ -- 797
+format.name$ -- 122
+if$ -- 2153
 int.to.chr$ -- 0
-int.to.str$ -- 23
-missing$ -- 109
-newline$ -- 213
-num.names$ -- 23
-pop$ -- 80
+int.to.str$ -- 29
+missing$ -- 133
+newline$ -- 267
+num.names$ -- 29
+pop$ -- 103
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 182
+skip$ -- 200
 stack$ -- 0
-substring$ -- 549
-swap$ -- 121
+substring$ -- 635
+swap$ -- 128
 text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 1
-while$ -- 68
-width$ -- 25
-write$ -- 332
-(There was 1 warning)
+while$ -- 79
+width$ -- 31
+write$ -- 413
+(There were 5 error messages)
