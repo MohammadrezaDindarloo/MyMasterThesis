@@ -31,20 +31,19 @@
 \BOOKMARK [1][-]{section.5.1}{نمادها و تعاریف}{chapter.5}% 31
 \BOOKMARK [1][-]{section.5.2}{معادلات مدل کابل خم‌شده}{chapter.5}% 32
 \BOOKMARK [1][-]{section.5.3}{سینماتیک ربات}{chapter.5}% 33
-\BOOKMARK [1][-]{section.5.4}{گراف عامل کالیبراسیون و مکان‌یابی همزمان سینماتیک-استاتیک}{chapter.5}% 34
+\BOOKMARK [1][-]{section.5.4}{گراف عامل کالیبراسیون و مکان‌یابی همزمان سینماتیک-ایستا}{chapter.5}% 34
 \BOOKMARK [2][-]{subsection.5.4.1}{عامل طول کابل خم‌شده}{section.5.4}% 35
 \BOOKMARK [2][-]{subsection.5.4.2}{عامل مکان اتصال کابل به پولی}{section.5.4}% 36
 \BOOKMARK [2][-]{subsection.5.4.3}{عامل اندازه‌گیری نیرو}{section.5.4}% 37
 \BOOKMARK [2][-]{subsection.5.4.4}{عامل پیشین مکان}{section.5.4}% 38
-\BOOKMARK [1][-]{section.5.5}{نتایج تجربی}{chapter.5}% 39
-\BOOKMARK [2][-]{subsection.5.5.1}{تأیید مدل}{section.5.5}% 40
-\BOOKMARK [2][-]{subsection.5.5.2}{کالیبراسیون}{section.5.5}% 41
-\BOOKMARK [3][-]{subsubsection.5.5.2.1}{کالیبراسیون با آویزان شدن کابل}{subsection.5.5.2}% 42
-\BOOKMARK [1][-]{section.5.6}{بحث}{chapter.5}% 43
-\BOOKMARK [2][-]{subsection.5.6.1}{اهمیت در نظر گرفتن اثر آویزان شدن کابل}{section.5.6}% 44
-\BOOKMARK [2][-]{subsection.5.6.2}{نکات مربوط به روش مقداردهی اولیه}{section.5.6}% 45
-\BOOKMARK [0][-]{chapter.6}{نتیجه‌گیری و پیشنهادات برای آینده}{}% 46
-\BOOKMARK [0][-]{chapter*.25}{مراجع}{}% 47
-\BOOKMARK [0][-]{appendix.Alph1}{آشنایی سریع با برخی دستورات لاتک}{}% 48
-\BOOKMARK [0][-]{appendix.Alph2}{‌جدول، نمودار و الگوریتم در لاتک}{}% 49
-\BOOKMARK [0][-]{appendix.Alph3}{مراجع، واژه‌نامه و حاشیه‌نویسی}{}% 50
+\BOOKMARK [1][-]{section.5.5}{نتایج شبیه سازی}{chapter.5}% 39
+\BOOKMARK [2][-]{subsection.5.5.1}{صحت‌سنجی مدل}{section.5.5}% 40
+\BOOKMARK [2][-]{subsection.5.5.2}{نتایج نهایی کالیبراسیون با گراف عامل توسعه‌ داده‌شده}{section.5.5}% 41
+\BOOKMARK [1][-]{section.5.6}{بحث}{chapter.5}% 42
+\BOOKMARK [2][-]{subsection.5.6.1}{اهمیت در نظر گرفتن اثر خم‌شدگی کابل}{section.5.6}% 43
+\BOOKMARK [2][-]{subsection.5.6.2}{نکات مربوط به روش مقداردهی اولیه}{section.5.6}% 44
+\BOOKMARK [0][-]{chapter.6}{نتیجه‌گیری و پیشنهادات برای آینده}{}% 45
+\BOOKMARK [0][-]{chapter*.25}{مراجع}{}% 46
+\BOOKMARK [0][-]{appendix.Alph1}{آشنایی سریع با برخی دستورات لاتک}{}% 47
+\BOOKMARK [0][-]{appendix.Alph2}{‌جدول، نمودار و الگوریتم در لاتک}{}% 48
+\BOOKMARK [0][-]{appendix.Alph3}{مراجع، واژه‌نامه و حاشیه‌نویسی}{}% 49
