@@ -8,9 +8,6 @@ A level-1 auxiliary file: ./tex/chapter4.aux
 A level-1 auxiliary file: ./tex/chapter5.aux
 A level-1 auxiliary file: ./tex/chapter6.aux
 The style file: unsrt-fa.bst
-A level-1 auxiliary file: ./tex/appendix1.aux
-A level-1 auxiliary file: ./tex/appendix2.aux
-A level-1 auxiliary file: ./tex/appendix3.aux
 Database file #1: ./tex/MyReferences.bib
 Repeated entry---line 269 of file ./tex/MyReferences.bib
  : @inproceedings{ida2019automatic
@@ -39,7 +36,7 @@ Warning--empty journal in ida2021dynamics
 Done.
 You've used 29 entries,
             2198 wiz_defined-function locations,
-            749 strings with 11106 characters,
+            746 strings with 11049 characters,
 and the built_in function-call counts, 9061 in all, are:
 = -- 768
 > -- 420

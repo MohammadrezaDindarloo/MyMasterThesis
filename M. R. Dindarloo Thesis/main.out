@@ -27,7 +27,7 @@
 \BOOKMARK [2][-]{subsection.4.4.3}{ترکیب بینایی-سینماتیک و استفاده از گراف عامل معرفی شده}{section.4.4}% 27
 \BOOKMARK [2][-]{subsection.4.4.4}{انتشار عدم قطعیت}{section.4.4}% 28
 \BOOKMARK [2][-]{subsection.4.4.5}{بحث و گفت‌وگو}{section.4.4}% 29
-\BOOKMARK [0][-]{chapter.5}{پیاده سازی رویکرد گراف مبنا جهت موقعیت‌یابی و کالیبراسیون همزمان برای ربات کابلی خم‌شده}{}% 30
+\BOOKMARK [0][-]{chapter.5}{پیاده سازی رویکرد گراف مبنا جهت مکان‌یابی و کالیبراسیون همزمان برای ربات کابلی خم‌شده}{}% 30
 \BOOKMARK [1][-]{section.5.1}{نمادها و تعاریف}{chapter.5}% 31
 \BOOKMARK [1][-]{section.5.2}{معادلات مدل کابل خم‌شده}{chapter.5}% 32
 \BOOKMARK [1][-]{section.5.3}{سینماتیک ربات}{chapter.5}% 33
@@ -42,8 +42,8 @@
 \BOOKMARK [1][-]{section.5.6}{بحث}{chapter.5}% 42
 \BOOKMARK [2][-]{subsection.5.6.1}{اهمیت در نظر گرفتن اثر خم‌شدگی کابل}{section.5.6}% 43
 \BOOKMARK [2][-]{subsection.5.6.2}{نکات مربوط به روش مقداردهی اولیه}{section.5.6}% 44
-\BOOKMARK [0][-]{chapter.6}{نتیجه‌گیری و پیشنهادات برای آینده}{}% 45
-\BOOKMARK [0][-]{chapter*.25}{مراجع}{}% 46
-\BOOKMARK [0][-]{appendix.Alph1}{آشنایی سریع با برخی دستورات لاتک}{}% 47
-\BOOKMARK [0][-]{appendix.Alph2}{‌جدول، نمودار و الگوریتم در لاتک}{}% 48
-\BOOKMARK [0][-]{appendix.Alph3}{مراجع، واژه‌نامه و حاشیه‌نویسی}{}% 49
+\BOOKMARK [1][-]{section.5.7}{نتیجه‌گیری}{chapter.5}% 45
+\BOOKMARK [0][-]{chapter.6}{نتیجه‌گیری و پیشنهادات برای آینده}{}% 46
+\BOOKMARK [1][-]{section.6.1}{نتیجه‌گیری}{chapter.6}% 47
+\BOOKMARK [1][-]{section.6.2}{پیشنهادات برای آینده}{chapter.6}% 48
+\BOOKMARK [0][-]{chapter*.25}{مراجع}{}% 49
