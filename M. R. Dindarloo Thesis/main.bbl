@@ -85,10 +85,142 @@ Martinelli, Agostino, Tomatis, Nicola, and Siegwart, Roland.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{hall1997introduction}
-Hall, David~L and Llinas, James.
-\newblock An introduction to multisensor data fusion.
-\newblock {\em Proceedings of the IEEE}, 85(1):6--23, 1997.
+\bibitem{gan2019calibration}
+Gan, Yahui, Duan, Jinjun, and Dai, Xianzhong.
+\newblock A calibration method of robot kinematic parameters by drawstring
+  displacement sensor.
+\newblock {\em International Journal of Advanced Robotic Systems},
+  16(5):1729881419883072, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{park2011laser}
+Park, In-Won, Lee, Bum-Joo, Cho, Se-Hyoung, Hong, Young-Dae, and Kim,
+  Jong-Hwan.
+\newblock Laser-based kinematic calibration of robot manipulator using
+  differential kinematics.
+\newblock {\em IEEE/ASME transactions on mechatronics}, 17(6):1059--1067, 2011.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{wang2012screw}
+Wang, Haixia, Shen, Shuhan, and Lu, Xiao.
+\newblock A screw axis identification method for serial robot calibration based
+  on the poe model.
+\newblock {\em Industrial Robot: An International Journal}, 39(2):146--153,
+  2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{li2011optimal}
+Li, Tian, Sun, Kui, Xie, Zong-wu, and Liu, Hong.
+\newblock Optimal measurement configurations for kinematic calibration of
+  six-dof serial robot.
+\newblock {\em Journal of Central South University}, 18(3):618--626, 2011.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{yang2022online}
+Yang, Shuo, Choset, Howie, and Manchester, Zachary.
+\newblock Online kinematic calibration for legged robots.
+\newblock {\em IEEE Robotics and Automation Letters}, 7(3):8178--8185, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{blochliger2017foot}
+Bl{\"o}chliger, Fabian, Bl{\"o}sch, Michael, Fankhauser, P{\'e}ter, Hutter,
+  Marco, and Siegwart, Roland.
+\newblock Foot-eye calibration of legged robot kinematics.
+\newblock  in {\em Advances in Cooperative Robotics},  pp. 420--427. World
+  Scientific, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{bloesch2013kinematic}
+Bloesch, Michael, Hutter, Marco, Gehring, Christian, Hoepflinger, Mark~A, and
+  Siegwart, Roland.
+\newblock Kinematic batch calibration for legged robots.
+\newblock  in {\em 2013 IEEE International Conference on Robotics and
+  Automation},  pp. 2542--2547. IEEE, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{roberti2020improving}
+Roberti, Andrea, Piccinelli, Nicola, Meli, Daniele, Muradore, Riccardo, and
+  Fiorini, Paolo.
+\newblock Improving rigid 3-d calibration for robotic surgery.
+\newblock {\em IEEE Transactions on Medical Robotics and Bionics},
+  2(4):569--573, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{wang2017vision}
+Wang, Zerui, Liu, Ziwei, Ma, Qianli, Cheng, Alexis, Liu, Yun-hui, Kim, Sungmin,
+  Deguet, Anton, Reiter, Austin, Kazanzides, Peter, and Taylor, Russell~H.
+\newblock Vision-based calibration of dual rcm-based robot arms in human-robot
+  collaborative minimally invasive surgery.
+\newblock {\em IEEE Robotics and Automation Letters}, 3(2):672--679, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{hassani2021kinematic}
+Hassani, A, Dindarloo, MR, Khorambakht, R, Bataleblu, A, Sadeghi, H, Heidari,
+  R, Iranfar, A, Hasani, P, Hojati, NS, Khorasani, A, et~al.
+\newblock Kinematic and dynamic analysis of arash asist: Toward micro
+  positioning.
+\newblock  in {\em 2021 9th RSI International Conference on Robotics and
+  Mechatronics (ICRoM)},  pp. 59--65. IEEE, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{dindarloo2023kinematic}
+Dindarloo, MR, Mirjalili, AS, Khorrambakht, R, Khalilpour, SA, Cardou, P, and
+  Taghirad, HD.
+\newblock Kinematic calibration of a spherical parallel robot.
+\newblock  in {\em 2023 11th RSI International Conference on Robotics and
+  Mechatronics (ICRoM)},  pp. 669--674. IEEE, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{jin2018geometric}
+Jin, XueJun, Jung, Jinwoo, Ko, Seong~Young, Choi, Eunpyo, Park, Jong-Oh, and
+  Kim, Chang-Sei.
+\newblock Geometric parameter calibration for a cable-driven parallel robot
+  based on a single one-dimensional laser distance sensor measurement and
+  experimental modeling.
+\newblock {\em Sensors}, 18(7):2392, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{borgstrom2009nims}
+Borgstrom, Per~Henrik, Jordan, Brett~L, Borgstrom, Bengt~J, Stealey, Michael~J,
+  Sukhatme, Gaurav~S, Batalin, Maxim~A, and Kaiser, William~J.
+\newblock Nims-pl: A cable-driven robot with self-calibration capabilities.
+\newblock {\em IEEE Transactions on Robotics}, 25(5):1005--1015, 2009.
 
 \end{LTRbibitems}
 
@@ -101,6 +233,47 @@ Id{\'a}, Edoardo, Merlet, Jean-Pierre, and Carricato, Marco.
 \newblock  in {\em Cable-Driven Parallel Robots: Proceedings of the 4th
   International Conference on Cable-Driven Parallel Robots 4},  pp. 333--344.
   Springer, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{pott2013cable_ForceSensorCalib}
+Pott, Andreas and Bruckmann, Tobias.
+\newblock {\em Cable-driven parallel robots}.
+\newblock Springer, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{darvin2018initial}
+Lau, Darwin.
+\newblock Initial length and pose calibration for cable-driven parallel robots
+  with relative length feedback.
+\newblock  in {\em Cable-Driven Parallel Robots: Proceedings of the Third
+  International Conference on Cable-Driven Parallel Robots},  pp. 140--151.
+  Springer, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{an2022all}
+An, Hao, Liu, Hang, Liu, Xintian, and Yuan, Han.
+\newblock An all-in-one cable-driven parallel robot with flexible workspace and
+  its auto-calibration method.
+\newblock  in {\em 2022 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)},  pp. 7345--7351. IEEE, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{hall1997introduction}
+Hall, David~L and Llinas, James.
+\newblock An introduction to multisensor data fusion.
+\newblock {\em Proceedings of the IEEE}, 85(1):6--23, 1997.
 
 \end{LTRbibitems}
 
@@ -236,18 +409,6 @@ Dai, Jun, Liu, Songlin, Hao, Xiangyang, Ren, Zongbin, and Yang, Xiao.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{hassani2021kinematic}
-Hassani, A, Dindarloo, MR, Khorambakht, R, Bataleblu, A, Sadeghi, H, Heidari,
-  R, Iranfar, A, Hasani, P, Hojati, NS, Khorasani, A, et~al.
-\newblock Kinematic and dynamic analysis of arash asist: Toward micro
-  positioning.
-\newblock  in {\em 2021 9th RSI International Conference on Robotics and
-  Mechatronics (ICRoM)},  pp. 59--65. IEEE, 2021.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{blueml2021bias}
 Blueml, Julian, Fornasier, Alessandro, and Weiss, Stephan.
 \newblock Bias compensated uwb anchor initialization using
@@ -324,16 +485,6 @@ Carricato, Marco.
 \newblock Direct geometrico-static problem of underconstrained cable-driven
   parallel robots with three cables.
 \newblock {\em Journal of Mechanisms and Robotics}, 5(3):031008, 2013.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{borgstrom2009nims}
-Borgstrom, Per~Henrik, Jordan, Brett~L, Borgstrom, Bengt~J, Stealey, Michael~J,
-  Sukhatme, Gaurav~S, Batalin, Maxim~A, and Kaiser, William~J.
-\newblock Nims-pl: A cable-driven robot with self-calibration capabilities.
-\newblock {\em IEEE Transactions on Robotics}, 25(5):1005--1015, 2009.
 
 \end{LTRbibitems}
 

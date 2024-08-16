@@ -7,49 +7,52 @@
 \contentsline {section}{\numberline {1.3}اهداف تحقیق}{6}{section.1.3}%
 \contentsline {section}{\numberline {1.4}روش تحقیق}{7}{section.1.4}%
 \contentsline {chapter}{\numberline {2}مروری بر مطالعات انجام شده}{9}{chapter.2}%
-\contentsline {chapter}{\numberline {3}رویکرد گراف مبنا مکان‌یابی و کالیبراسیون به صورت همزمان}{11}{chapter.3}%
-\contentsline {section}{\numberline {3.1}مقدمه}{11}{section.3.1}%
-\contentsline {section}{\numberline {3.2}روش های مرسوم مسئله کالیبراسیون}{12}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}ترکیب حسگر ها}{14}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}ترکیب شبه اندازه گیری ها}{14}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}روش‌های مرسوم مسئله مکان‌یابی}{15}{section.3.3}%
-\contentsline {section}{\numberline {3.4}رویکرد گراف مبنا برای حل مسئله کالیبراسیون و مکان‌یابی به صورت همزمان}{16}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}بیان الگوریتم گراف عامل}{17}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}گراف عامل پیشنهادی برای کالیبراسیون و مکان یابی به صورت همزمان}{18}{subsection.3.4.2}%
-\contentsline {section}{\numberline {3.5}نتیجه‌گیری}{24}{section.3.5}%
-\contentsline {chapter}{\numberline {4}پیاده سازی رویکرد گراف مبنا جهت مکان‌یابی و کالیبراسیون همزمان برای ربات کابلی صلب}{25}{chapter.4}%
-\contentsline {section}{\numberline {4.1}انتخاب ربات مناسب جهت توسعه الگوریتم}{25}{section.4.1}%
-\contentsline {section}{\numberline {4.2}توسعه گراف عامل برای یک ربات چهار کابلی با فرض کابل صلب}{26}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}معرفی ربات کابلی ARASCam}{26}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}بیان فرمول‌بندی مسئله و فرضیات}{27}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}رویت‌پذیری}{29}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}بهینه‌سازی پارامترها با استفاده از گراف‌های عاملی}{30}{section.4.3}%
-\contentsline {section}{\numberline {4.4}نتایج پیاده‌سازی}{31}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}راه‌اندازی سیستم و فرضیات}{31}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}کالیبراسیون خودکار بدون پارامترهای اولیه}{32}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}ترکیب بینایی-سینماتیک و استفاده از گراف عامل معرفی شده}{33}{subsection.4.4.3}%
-\contentsline {subsection}{\numberline {4.4.4}انتشار عدم قطعیت}{34}{subsection.4.4.4}%
-\contentsline {section}{\numberline {4.5}بحث و گفت‌وگو}{35}{section.4.5}%
-\contentsline {section}{\numberline {4.6}نتیجه‌گیری}{36}{section.4.6}%
-\contentsline {chapter}{\numberline {5}پیاده سازی رویکرد گراف مبنا جهت مکان‌یابی و کالیبراسیون همزمان برای ربات کابلی خم‌شده}{39}{chapter.5}%
-\contentsline {section}{\numberline {5.1}نمادها و تعاریف}{40}{section.5.1}%
-\contentsline {section}{\numberline {5.2}معادلات مدل کابل خم‌شده}{41}{section.5.2}%
-\contentsline {section}{\numberline {5.3}سینماتیک ربات}{42}{section.5.3}%
-\contentsline {section}{\numberline {5.4}گراف عامل کالیبراسیون و مکان‌یابی همزمان سینماتیک-ایستا}{44}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}عامل طول کابل خم‌شده}{45}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}عامل مکان اتصال کابل به پولی}{45}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}عامل اندازه‌گیری نیرو}{46}{subsection.5.4.3}%
-\contentsline {subsection}{\numberline {5.4.4}عامل پیشین مکان}{46}{subsection.5.4.4}%
-\contentsline {section}{\numberline {5.5}نتایج شبیه سازی}{47}{section.5.5}%
-\contentsline {subsection}{\numberline {5.5.1}صحت‌سنجی مدل}{47}{subsection.5.5.1}%
-\contentsline {subsection}{\numberline {5.5.2}نتایج نهایی کالیبراسیون با گراف عامل توسعه‌ داده‌شده}{49}{subsection.5.5.2}%
-\contentsline {section}{\numberline {5.6}بحث و گفت‌وگو}{52}{section.5.6}%
-\contentsline {subsection}{\numberline {5.6.1}اهمیت در نظر گرفتن اثر خم‌شدگی کابل}{52}{subsection.5.6.1}%
-\contentsline {subsection}{\numberline {5.6.2}نکات مربوط به روش مقداردهی اولیه}{53}{subsection.5.6.2}%
-\contentsline {section}{\numberline {5.7}نتیجه‌گیری}{53}{section.5.7}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات برای آینده}{55}{chapter.6}%
-\contentsline {section}{\numberline {6.1}نتیجه‌گیری}{55}{section.6.1}%
-\contentsline {section}{\numberline {6.2}پیشنهادات برای آینده}{56}{section.6.2}%
-\contentsline {chapter}{مراجع}{61}{chapter*.24}%
+\contentsline {section}{\numberline {2.1}مروری بر مطالعات انجام شده در حوزه کالیبراسیون}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}مروری بر مطالعات انجام شده در حوزه مکان‌یابی}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}مروری بر مطالعات انجام‌شده در ترکیب وظایف رباتیکی با استفاده از الگوریتم‌های گراف‌مبنا}{13}{section.2.3}%
+\contentsline {chapter}{\numberline {3}رویکرد گراف مبنا مکان‌یابی و کالیبراسیون به صورت همزمان}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}مقدمه}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}روش های مرسوم مسئله کالیبراسیون}{16}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}ترکیب حسگر ها}{18}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}ترکیب شبه اندازه گیری ها}{18}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}روش‌های مرسوم مسئله مکان‌یابی}{19}{section.3.3}%
+\contentsline {section}{\numberline {3.4}رویکرد گراف مبنا برای حل مسئله کالیبراسیون و مکان‌یابی به صورت همزمان}{20}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}بیان الگوریتم گراف عامل}{21}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}گراف عامل پیشنهادی برای کالیبراسیون و مکان یابی به صورت همزمان}{22}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}نتیجه‌گیری}{28}{section.3.5}%
+\contentsline {chapter}{\numberline {4}پیاده سازی رویکرد گراف مبنا جهت مکان‌یابی و کالیبراسیون همزمان برای ربات کابلی صلب}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}انتخاب ربات مناسب جهت توسعه الگوریتم}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}توسعه گراف عامل برای یک ربات چهار کابلی با فرض کابل صلب}{30}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}معرفی ربات کابلی ARASCam}{30}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}بیان فرمول‌بندی مسئله و فرضیات}{31}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}رویت‌پذیری}{33}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}بهینه‌سازی پارامترها با استفاده از گراف‌های عاملی}{34}{section.4.3}%
+\contentsline {section}{\numberline {4.4}نتایج پیاده‌سازی}{35}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}راه‌اندازی سیستم و فرضیات}{35}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}کالیبراسیون خودکار بدون پارامترهای اولیه}{36}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}ترکیب بینایی-سینماتیک و استفاده از گراف عامل معرفی شده}{37}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}انتشار عدم قطعیت}{38}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4.5}بحث و گفت‌وگو}{39}{section.4.5}%
+\contentsline {section}{\numberline {4.6}نتیجه‌گیری}{40}{section.4.6}%
+\contentsline {chapter}{\numberline {5}پیاده سازی رویکرد گراف مبنا جهت مکان‌یابی و کالیبراسیون همزمان برای ربات کابلی خم‌شده}{43}{chapter.5}%
+\contentsline {section}{\numberline {5.1}نمادها و تعاریف}{44}{section.5.1}%
+\contentsline {section}{\numberline {5.2}معادلات مدل کابل خم‌شده}{45}{section.5.2}%
+\contentsline {section}{\numberline {5.3}سینماتیک ربات}{46}{section.5.3}%
+\contentsline {section}{\numberline {5.4}گراف عامل کالیبراسیون و مکان‌یابی همزمان سینماتیک-ایستا}{48}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}عامل طول کابل خم‌شده}{49}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}عامل مکان اتصال کابل به پولی}{49}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}عامل اندازه‌گیری نیرو}{50}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}عامل پیشین مکان}{50}{subsection.5.4.4}%
+\contentsline {section}{\numberline {5.5}نتایج شبیه سازی}{51}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}صحت‌سنجی مدل}{51}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}نتایج نهایی کالیبراسیون با گراف عامل توسعه‌ داده‌شده}{53}{subsection.5.5.2}%
+\contentsline {section}{\numberline {5.6}بحث و گفت‌وگو}{56}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}اهمیت در نظر گرفتن اثر خم‌شدگی کابل}{56}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}نکات مربوط به روش مقداردهی اولیه}{57}{subsection.5.6.2}%
+\contentsline {section}{\numberline {5.7}نتیجه‌گیری}{57}{section.5.7}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات برای آینده}{59}{chapter.6}%
+\contentsline {section}{\numberline {6.1}نتیجه‌گیری}{59}{section.6.1}%
+\contentsline {section}{\numberline {6.2}پیشنهادات برای آینده}{60}{section.6.2}%
+\contentsline {chapter}{مراجع}{65}{chapter*.24}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
 \contentsline {paragraph}{Keywords}{دوم}{section*.26}%
