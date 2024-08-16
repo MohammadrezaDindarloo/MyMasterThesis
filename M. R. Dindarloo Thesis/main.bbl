@@ -5,10 +5,10 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{hall1997introduction}
-Hall, David~L and Llinas, James.
-\newblock An introduction to multisensor data fusion.
-\newblock {\em Proceedings of the IEEE}, 85(1):6--23, 1997.
+\bibitem{roth1987overview}
+Roth, ZVIS, Mooring, Benjamin, and Ravani, Bahram.
+\newblock An overview of robot calibration.
+\newblock {\em IEEE Journal on Robotics and Automation}, 3(5):377--385, 1987.
 
 \end{LTRbibitems}
 
@@ -18,6 +18,77 @@ Hall, David~L and Llinas, James.
 Elatta, AY, Gen, Li~Pei, Zhi, Fan~Liang, Daoyuan, Yu, and Fei, Luo.
 \newblock An overview of robot calibration.
 \newblock {\em Information Technology Journal}, 3(1):74--78, 2004.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{malagon2015mobile}
+Malagon-Soldara, Salvador~Manuel, Toledano-Ayala, Manuel, Soto-Zarazua, Genaro,
+  Carrillo-Serrano, Roberto~Valentin, and Rivas-Araiza, Edgar~Alejandro.
+\newblock Mobile robot localization: A review of probabilistic map-based
+  techniques.
+\newblock {\em IAES International Journal of Robotics and Automation}, 4(1):73,
+  2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{burgard1997active}
+Burgard, Wolfram, Fox, Dieter, and Thrun, Sebastian.
+\newblock Active mobile robot localization.
+\newblock  in {\em IJCAI},  pp. 1346--1352. Citeseer, 1997.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{betke1997mobile}
+Betke, Margrit and Gurvits, Leonid.
+\newblock Mobile robot localization using landmarks.
+\newblock {\em IEEE transactions on robotics and automation}, 13(2):251--263,
+  1997.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Forster2014ICRA}
+Forster, Christian, Pizzoli, Matia, and Scaramuzza, Davide.
+\newblock {SVO}: Fast semi-direct monocular visual odometry.
+\newblock  in {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{grisetti2010tutorial}
+Grisetti, Giorgio, K{\"u}mmerle, Rainer, Stachniss, Cyrill, and Burgard,
+  Wolfram.
+\newblock A tutorial on graph-based slam.
+\newblock {\em IEEE Intelligent Transportation Systems Magazine}, 2(4):31--43,
+  2010.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{martinelli2007simultaneous}
+Martinelli, Agostino, Tomatis, Nicola, and Siegwart, Roland.
+\newblock Simultaneous localization and odometry self calibration for mobile
+  robot.
+\newblock {\em Autonomous Robots}, 22:75--85, 2007.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{hall1997introduction}
+Hall, David~L and Llinas, James.
+\newblock An introduction to multisensor data fusion.
+\newblock {\em Proceedings of the IEEE}, 85(1):6--23, 1997.
 
 \end{LTRbibitems}
 
@@ -172,16 +243,6 @@ Hassani, A, Dindarloo, MR, Khorambakht, R, Bataleblu, A, Sadeghi, H, Heidari,
   positioning.
 \newblock  in {\em 2021 9th RSI International Conference on Robotics and
   Mechatronics (ICRoM)},  pp. 59--65. IEEE, 2021.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{Forster2014ICRA}
-Forster, Christian, Pizzoli, Matia, and Scaramuzza, Davide.
-\newblock {SVO}: Fast semi-direct monocular visual odometry.
-\newblock  in {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, 2014.
 
 \end{LTRbibitems}
 

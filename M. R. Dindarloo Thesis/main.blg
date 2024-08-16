@@ -9,24 +9,28 @@ A level-1 auxiliary file: ./tex/chapter5.aux
 A level-1 auxiliary file: ./tex/chapter6.aux
 The style file: unsrt-fa.bst
 Database file #1: ./tex/MyReferences.bib
-Repeated entry---line 269 of file ./tex/MyReferences.bib
+Repeated entry---line 281 of file ./tex/MyReferences.bib
  : @inproceedings{ida2019automatic
  :                                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 363 of file ./tex/MyReferences.bib
+Repeated entry---line 375 of file ./tex/MyReferences.bib
  : @inproceedings{khorrambakht2023graph
  :                                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 411 of file ./tex/MyReferences.bib
+Repeated entry---line 423 of file ./tex/MyReferences.bib
  : @book{pott2013cable
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 418 of file ./tex/MyReferences.bib
+Repeated entry---line 430 of file ./tex/MyReferences.bib
  : @inproceedings{allak2022kinematics
  :                                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 503 of file ./tex/MyReferences.bib
+Repeated entry---line 515 of file ./tex/MyReferences.bib
  : @article{dellaert2012factor
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 662 of file ./tex/MyReferences.bib
+ : @article{elatta2004overview
  :                            ,
 I'm skipping whatever remains of this entry
 -- unsrt-fa.bst version 0.9 (2015/05/09) 
@@ -34,45 +38,45 @@ I'm skipping whatever remains of this entry
 Warning--empty journal in ida2021dynamics
 
 Done.
-You've used 29 entries,
+You've used 35 entries,
             2198 wiz_defined-function locations,
-            746 strings with 11049 characters,
-and the built_in function-call counts, 9061 in all, are:
-= -- 768
-> -- 420
-< -- 9
-+ -- 151
-- -- 122
-* -- 603
-:= -- 1293
-add.period$ -- 96
-call.type$ -- 29
-change.case$ -- 28
+            781 strings with 12167 characters,
+and the built_in function-call counts, 10778 in all, are:
+= -- 921
+> -- 492
+< -- 10
++ -- 177
+- -- 142
+* -- 726
+:= -- 1541
+add.period$ -- 115
+call.type$ -- 35
+change.case$ -- 34
 chr.to.int$ -- 0
-cite$ -- 30
-duplicate$ -- 378
-empty$ -- 797
-format.name$ -- 122
-if$ -- 2153
+cite$ -- 36
+duplicate$ -- 446
+empty$ -- 948
+format.name$ -- 142
+if$ -- 2553
 int.to.chr$ -- 0
-int.to.str$ -- 29
-missing$ -- 133
-newline$ -- 267
-num.names$ -- 29
-pop$ -- 103
+int.to.str$ -- 35
+missing$ -- 159
+newline$ -- 321
+num.names$ -- 35
+pop$ -- 114
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 200
+skip$ -- 233
 stack$ -- 0
-substring$ -- 635
-swap$ -- 128
-text.length$ -- 9
+substring$ -- 769
+swap$ -- 146
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 1
-while$ -- 79
-width$ -- 31
-write$ -- 413
-(There were 5 error messages)
+while$ -- 97
+width$ -- 37
+write$ -- 498
+(There were 6 error messages)
