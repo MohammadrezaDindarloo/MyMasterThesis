@@ -5,17 +5,17 @@
 \contentsline {chapter}{\rl {فهرست برنامه‌ها}}{ح}{chapter*.5}%
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}مروری بر مطالعات انجام شده}{3}{chapter.2}%
-\contentsline {chapter}{\numberline {3}رویکرد گراف مبنا موقعیت‌یابی و کالیبراسیون به صورت همزمان}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {3}رویکرد گراف مبنا مکان‌یابی و کالیبراسیون به صورت همزمان}{5}{chapter.3}%
 \contentsline {section}{\numberline {3.1}مقدمه}{5}{section.3.1}%
 \contentsline {section}{\numberline {3.2}روش های مرسوم مسئله کالیبراسیون}{6}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}ترکیب حسگر ها}{7}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}ترکیب شبه اندازه گیری ها}{8}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}روش های مرسوم مسئله موقعیت یابی}{8}{section.3.3}%
-\contentsline {section}{\numberline {3.4}رویکرد گراف مبنا برای حل مسئله کالیبراسیون و موقعیت یابی به صورت همزمان}{10}{section.3.4}%
+\contentsline {section}{\numberline {3.3}روش‌های مرسوم مسئله مکان‌یابی}{8}{section.3.3}%
+\contentsline {section}{\numberline {3.4}رویکرد گراف مبنا برای حل مسئله کالیبراسیون و مکان‌یابی به صورت همزمان}{10}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}بیان الگوریتم گراف عامل}{11}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}گراف عامل پیشنهادی برای کالیبراسیون و موقعیت یابی به صورت همزمان}{12}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.2}گراف عامل پیشنهادی برای کالیبراسیون و مکان یابی به صورت همزمان}{12}{subsection.3.4.2}%
 \contentsline {section}{\numberline {3.5}نتیجه‌گیری}{17}{section.3.5}%
-\contentsline {chapter}{\numberline {4}پیاده سازی رویکرد گراف مبنا جهت موقعیت‌یابی و کالیبراسیون همزمان برای ربات کابلی صلب}{19}{chapter.4}%
+\contentsline {chapter}{\numberline {4}پیاده سازی رویکرد گراف مبنا جهت مکان‌یابی و کالیبراسیون همزمان برای ربات کابلی صلب}{19}{chapter.4}%
 \contentsline {section}{\numberline {4.1}انتخاب ربات مناسب جهت توسعه الگوریتم}{19}{section.4.1}%
 \contentsline {section}{\numberline {4.2}توسعه گراف عامل برای یک ربات چهار کابلی با فرض کابل صلب}{20}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}معرفی ربات کابلی ARASCam}{20}{subsection.4.2.1}%
@@ -27,7 +27,8 @@
 \contentsline {subsection}{\numberline {4.4.2}کالیبراسیون خودکار بدون پارامترهای اولیه}{26}{subsection.4.4.2}%
 \contentsline {subsection}{\numberline {4.4.3}ترکیب بینایی-سینماتیک و استفاده از گراف عامل معرفی شده}{27}{subsection.4.4.3}%
 \contentsline {subsection}{\numberline {4.4.4}انتشار عدم قطعیت}{29}{subsection.4.4.4}%
-\contentsline {subsection}{\numberline {4.4.5}بحث و گفت‌وگو}{30}{subsection.4.4.5}%
+\contentsline {section}{\numberline {4.5}بحث و گفت‌وگو}{30}{section.4.5}%
+\contentsline {section}{\numberline {4.6}نتیجه‌گیری}{31}{section.4.6}%
 \contentsline {chapter}{\numberline {5}پیاده سازی رویکرد گراف مبنا جهت مکان‌یابی و کالیبراسیون همزمان برای ربات کابلی خم‌شده}{33}{chapter.5}%
 \contentsline {section}{\numberline {5.1}نمادها و تعاریف}{34}{section.5.1}%
 \contentsline {section}{\numberline {5.2}معادلات مدل کابل خم‌شده}{35}{section.5.2}%
@@ -40,9 +41,9 @@
 \contentsline {section}{\numberline {5.5}نتایج شبیه سازی}{40}{section.5.5}%
 \contentsline {subsection}{\numberline {5.5.1}صحت‌سنجی مدل}{41}{subsection.5.5.1}%
 \contentsline {subsection}{\numberline {5.5.2}نتایج نهایی کالیبراسیون با گراف عامل توسعه‌ داده‌شده}{43}{subsection.5.5.2}%
-\contentsline {section}{\numberline {5.6}بحث}{45}{section.5.6}%
+\contentsline {section}{\numberline {5.6}بحث و گفت‌وگو}{45}{section.5.6}%
 \contentsline {subsection}{\numberline {5.6.1}اهمیت در نظر گرفتن اثر خم‌شدگی کابل}{45}{subsection.5.6.1}%
-\contentsline {subsection}{\numberline {5.6.2}نکات مربوط به روش مقداردهی اولیه}{45}{subsection.5.6.2}%
+\contentsline {subsection}{\numberline {5.6.2}نکات مربوط به روش مقداردهی اولیه}{46}{subsection.5.6.2}%
 \contentsline {section}{\numberline {5.7}نتیجه‌گیری}{46}{section.5.7}%
 \contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات برای آینده}{49}{chapter.6}%
 \contentsline {section}{\numberline {6.1}نتیجه‌گیری}{49}{section.6.1}%
