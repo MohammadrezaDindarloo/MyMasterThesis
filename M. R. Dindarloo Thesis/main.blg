@@ -45,50 +45,61 @@ Repeated entry---line 893 of file ./tex/MyReferences.bib
  : @inproceedings{an2022all
  :                         ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 905 of file ./tex/MyReferences.bib
+ : @inproceedings{burgard1997active
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1152 of file ./tex/MyReferences.bib
+ : @inproceedings{burgard1997active
+ :                                 ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "SLAK4"
 -- unsrt-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--empty journal in filtermobile
+Warning--empty year in filtermobile
 Warning--empty journal in ida2021dynamics
 
 Done.
-You've used 49 entries,
+You've used 77 entries,
             2198 wiz_defined-function locations,
-            854 strings with 15195 characters,
-and the built_in function-call counts, 15554 in all, are:
-= -- 1342
-> -- 705
-< -- 15
-+ -- 253
-- -- 204
-* -- 1065
-:= -- 2210
-add.period$ -- 162
-call.type$ -- 49
-change.case$ -- 47
+            1000 strings with 20815 characters,
+and the built_in function-call counts, 24617 in all, are:
+= -- 2175
+> -- 1036
+< -- 29
++ -- 374
+- -- 297
+* -- 1647
+:= -- 3444
+add.period$ -- 256
+call.type$ -- 77
+change.case$ -- 74
 chr.to.int$ -- 0
-cite$ -- 50
-duplicate$ -- 638
-empty$ -- 1365
-format.name$ -- 204
-if$ -- 3689
+cite$ -- 80
+duplicate$ -- 1029
+empty$ -- 2182
+format.name$ -- 297
+if$ -- 5887
 int.to.chr$ -- 0
-int.to.str$ -- 49
-missing$ -- 226
-newline$ -- 447
-num.names$ -- 49
-pop$ -- 159
+int.to.str$ -- 77
+missing$ -- 360
+newline$ -- 698
+num.names$ -- 77
+pop$ -- 253
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 336
+skip$ -- 557
 stack$ -- 0
-substring$ -- 1167
-swap$ -- 213
-text.length$ -- 15
+substring$ -- 1914
+swap$ -- 358
+text.length$ -- 29
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
-warning$ -- 1
-while$ -- 140
-width$ -- 51
-write$ -- 698
-(There were 9 error messages)
+warning$ -- 3
+while$ -- 225
+width$ -- 79
+write$ -- 1098
+(There were 11 error messages)

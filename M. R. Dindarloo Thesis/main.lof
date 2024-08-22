@@ -1,21 +1,21 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces دیاگرام کلی فرمول‌بندی یک مسئله کالیبراسیون\relax }}{16}{figure.caption.5}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces گراف عامل پیشنهادی برای یک حل یک مسئله مکان‌یابی\relax }}{23}{figure.caption.6}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces گراف عامل پیشنهادی برای یک حل یک مسئله مکان‌یابی ربات‌های چند عاملی\relax }}{25}{figure.caption.7}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces گراف عامل پیشنهادی برای مسئله مکان‌یابی و کالیبراسیون همزمان با پارامتر‌های نامتغیر با زمان\relax }}{26}{figure.caption.8}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces نمایی از ساختار ربات ARASH:ASiST\relax }}{27}{figure.caption.9}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces گراف عامل پیشنهادی برای مسئله مکان‌یابی و کالیبراسیون همزمان با پارامتر‌های متغیر با زمان\relax }}{27}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces دیاگرام کلی فرمول‌بندی یک مسئله کالیبراسیون\relax }}{22}{figure.caption.5}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces گراف عامل پیشنهادی برای یک حل یک مسئله مکان‌یابی\relax }}{29}{figure.caption.6}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces گراف عامل پیشنهادی برای یک حل یک مسئله مکان‌یابی ربات‌های چند عاملی\relax }}{31}{figure.caption.7}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces گراف عامل پیشنهادی برای مسئله مکان‌یابی و کالیبراسیون همزمان با پارامتر‌های نامتغیر با زمان\relax }}{32}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces نمایی از ساختار ربات ARASH:ASiST\relax }}{33}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces گراف عامل پیشنهادی برای مسئله مکان‌یابی و کالیبراسیون همزمان با پارامتر‌های متغیر با زمان\relax }}{33}{figure.caption.10}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces نمایی از ربات چهار کابلی فروتحریک معلق ARAS-CAM\relax }}{31}{figure.caption.11}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces گراف عامل پیشنهادی برای حل مسئلخ کالیبراسیون و مکان‌یابی ربات کابلی صلب\relax }}{41}{figure.caption.12}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces پالایش متوالی یک باور یکنواخت بر روی پارامترهای سینماتیکی از طریق الگوریتم مونت-کارلو\relax }}{41}{figure.caption.13}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces راست: توزیع خطای پنجه قبل و بعد از بهبود پارامترها، چپ: خطای مکان‌یابی در دستگاه کارتزین\relax }}{42}{figure.caption.15}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces مسیر طی شده توسط ربات در کنار مکان اولیه و نهایی(بهبودیافته) پولی‌ها\relax }}{42}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces نمایی از ربات چهار کابلی فروتحریک معلق ARAS-CAM\relax }}{37}{figure.caption.11}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces گراف عامل پیشنهادی برای حل مسئلخ کالیبراسیون و مکان‌یابی ربات کابلی صلب\relax }}{47}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces پالایش متوالی یک باور یکنواخت بر روی پارامترهای سینماتیکی از طریق الگوریتم مونت-کارلو\relax }}{47}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces راست: توزیع خطای پنجه قبل و بعد از بهبود پارامترها، چپ: خطای مکان‌یابی در دستگاه کارتزین\relax }}{48}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces مسیر طی شده توسط ربات در کنار مکان اولیه و نهایی(بهبودیافته) پولی‌ها\relax }}{48}{figure.caption.16}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces دیاگرام پنجه ربات متصل به یک کابل خم‌شده\relax }}{45}{figure.caption.18}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces گراف عامل کالیبراسیون و مکان‌یابی همزمان ربات کابلی با کابل‌های خم‌شده\relax }}{49}{figure.caption.19}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces سناریوی ربات کوچک‌مقیاس در محیط شبیه‌ساز RecurDyn\relax }}{52}{figure.caption.20}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces سناریوی ربات بزرگ‌مقیاس در محیط شبیه‌ساز RecurDyn\relax }}{52}{figure.caption.21}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces دیاگرام پنجه ربات متصل به یک کابل خم‌شده\relax }}{51}{figure.caption.18}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces گراف عامل کالیبراسیون و مکان‌یابی همزمان ربات کابلی با کابل‌های خم‌شده\relax }}{55}{figure.caption.19}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces سناریوی ربات کوچک‌مقیاس در محیط شبیه‌ساز RecurDyn\relax }}{58}{figure.caption.20}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces سناریوی ربات بزرگ‌مقیاس در محیط شبیه‌ساز RecurDyn\relax }}{58}{figure.caption.21}%
 \addvspace {10\p@ }

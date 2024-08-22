@@ -270,6 +270,295 @@ An, Hao, Liu, Hang, Liu, Xintian, and Yuan, Han.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{liu2021cost}
+Liu, Ran, He, Yongping, Yuen, Chau, Lau, Billy Pik~Lik, Ali, Rashid, Fu,
+  Wenpeng, and Cao, Zhiqiang.
+\newblock Cost-effective mapping of mobile robot based on the fusion of uwb and
+  short-range 2-d lidar.
+\newblock {\em IEEE/ASME Transactions on Mechatronics}, 27(3):1321--1331, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{lin2018topological}
+Lin, Huei-Yung, Yao, Chia-Wei, Cheng, Kai-Sheng, and Tran, Van~Luan.
+\newblock Topological map construction and scene recognition for vehicle
+  localization.
+\newblock {\em Autonomous Robots}, 42:65--81, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{negenborn2003robot}
+Negenborn, Rudy.
+\newblock Robot localization and kalman filters.
+\newblock {\em Utrecht Univ., Utrecht, Netherlands, Master's thesis
+  INF/SCR-0309}, 2003.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zhan2007iterated}
+Zhan, Ronghui and Wan, Jianwei.
+\newblock Iterated unscented kalman filter for passive target tracking.
+\newblock {\em IEEE Transactions on Aerospace and Electronic Systems},
+  43(3):1155--1163, 2007.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{guo2014square}
+Guo, Junqi, Zhang, Hongyang, Sun, Yunchuan, and Bie, Rongfang.
+\newblock Square-root unscented kalman filtering-based localization and
+  tracking in the internet of things.
+\newblock {\em Personal and ubiquitous computing}, 18:987--996, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{xian2016square}
+Xian, Zhiwen, Lian, Junxiang, Shan, Mao, Zhang, Lilian, He, Xiaofeng, and Hu,
+  Xiaoping.
+\newblock A square root unscented kalman filter for multiple view geometry
+  based stereo cameras/inertial navigation.
+\newblock {\em International Journal of Advanced Robotic Systems},
+  13(5):1729881416664850, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{filtermobile}
+Filter, Constrained Square-Root Unscented~Kalman.
+\newblock Mobile localization in non-line-of-sight using constrained
+  square-root unscented kalman filter.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{huang2013quadratic}
+Huang, Guoquan~P, Mourikis, Anastasios~I, and Roumeliotis, Stergios~I.
+\newblock A quadratic-complexity observability-constrained unscented kalman
+  filter for slam.
+\newblock {\em IEEE Transactions on Robotics}, 29(5):1226--1243, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kim2008unscented}
+Kim, Chanki, Sakthivel, Rathinasamy, and Chung, Wan~Kyun.
+\newblock Unscented fastslam: a robust and efficient solution to the slam
+  problem.
+\newblock {\em IEEE Transactions on robotics}, 24(4):808--820, 2008.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{cheng2014compressed}
+Cheng, Jiantong, Kim, Jonghyuk, Jiang, Zhenyu, and Yang, Xixiang.
+\newblock Compressed unscented kalman filter-based slam.
+\newblock  in {\em 2014 IEEE International Conference on Robotics and
+  Biomimetics (ROBIO 2014)},  pp. 1602--1607. IEEE, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{fox2001particle}
+Fox, Dieter, Thrun, Sebastian, Burgard, Wolfram, and Dellaert, Frank.
+\newblock Particle filters for mobile robot localization.
+\newblock  in {\em Sequential Monte Carlo methods in practice},  pp. 401--428.
+  Springer, 2001.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{montemerlo2002conditional}
+Montemerlo, Michael, Thrun, Sebastian, and Whittaker, William.
+\newblock Conditional particle filters for simultaneous mobile robot
+  localization and people-tracking.
+\newblock  in {\em Proceedings 2002 IEEE International Conference on Robotics
+  and Automation (Cat. No. 02CH37292)},  vol.~1,  pp. 695--701. IEEE, 2002.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kwok2003adaptive}
+Kwok, Cody, Fox, Dieter, and Meila, Marina.
+\newblock Adaptive real-time particle filters for robot localization.
+\newblock  in {\em 2003 IEEE International Conference on Robotics and
+  Automation (Cat. No. 03CH37422)},  vol.~2,  pp. 2836--2841. IEEE, 2003.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{srinivasan2007multiple}
+Srinivasan, Karthick and Gu, Jason.
+\newblock Multiple sensor fusion in mobile robot localization.
+\newblock  in {\em 2007 Canadian Conference on Electrical and Computer
+  Engineering},  pp. 1207--1210. IEEE, 2007.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{westman2018underwater}
+Westman, Eric and Kaess, Michael.
+\newblock Underwater apriltag slam and calibration for high precision robot
+  localization.
+\newblock  in {\em tech. rep}. Carnegie Mellon University Pittsburgh, PA, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{hiebert2022introduction}
+Hiebert-Treuer, Bradley.
+\newblock {\em An introduction to robot slam (simultaneous localization and
+  mapping)}.
+\newblock  Ph.D. thesis, Middlebury, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{guan2021robot}
+Guan, Weipeng, Huang, Linyi, Wen, Shangsheng, Yan, Zihong, Liang, Wanlin, Yang,
+  Chen, and Liu, Ziyu.
+\newblock Robot localization and navigation using visible light positioning and
+  slam fusion.
+\newblock {\em Journal of Lightwave Technology}, 39(22):7040--7051, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{khairuddin2015review}
+Khairuddin, Alif~Ridzuan, Talib, Mohamad~Shukor, and Haron, Habibollah.
+\newblock Review on simultaneous localization and mapping (slam).
+\newblock  in {\em 2015 IEEE international conference on control system,
+  computing and engineering (ICCSCE)},  pp. 85--90. IEEE, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{choset2001topological}
+Choset, Howie and Nagatani, Keiji.
+\newblock Topological simultaneous localization and mapping (slam): toward
+  exact localization without explicit localization.
+\newblock {\em IEEE Transactions on robotics and automation}, 17(2):125--137,
+  2001.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{xu2019indoor}
+Xu, Yuan, Shmaliy, Yuriy~S, Li, Yueyang, Chen, Xiyuan, and Guo, Hang.
+\newblock Indoor ins/lidar-based robot localization with improved robustness
+  using cascaded fir filter.
+\newblock {\em IEEE Access}, 7:34189--34197, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{liu2022improved}
+Liu, Yanjie, Wang, Chao, Wu, Heng, Wei, Yanlong, Ren, Meixuan, and Zhao,
+  Changsen.
+\newblock Improved lidar localization method for mobile robots based on
+  multi-sensing.
+\newblock {\em Remote Sensing}, 14(23):6133, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{blok2019robot}
+Blok, Pieter~M, van Boheemen, Koen, van Evert, Frits~K, IJsselmuiden, Joris,
+  and Kim, Gook-Hwan.
+\newblock Robot navigation in orchards with localization based on particle
+  filter and kalman filter.
+\newblock {\em Computers and electronics in agriculture}, 157:261--269, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{burgard1997active2}
+Burgard, Wolfram, Fox, Dieter, and Thrun, Sebastian.
+\newblock Active mobile robot localization by entropy minimization.
+\newblock  in {\em Proceedings second euromicro workshop on advanced mobile
+  robots},  pp. 155--162. IEEE, 1997.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kummerle2012simultaneous}
+K{\"u}mmerle, Rainer, Grisetti, Giorgio, and Burgard, Wolfram.
+\newblock Simultaneous parameter calibration, localization, and mapping.
+\newblock {\em Advanced Robotics}, 26(17):2021--2041, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zhou2014simultaneous}
+Zhou, Qian-Yi and Koltun, Vladlen.
+\newblock Simultaneous localization and calibration: Self-calibration of
+  consumer depth cameras.
+\newblock  in {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition},  pp. 454--460, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{foxlin2002generalized}
+Foxlin, Eric~M.
+\newblock Generalized architecture for simultaneous localization,
+  auto-calibration, and map-building.
+\newblock  in {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems},  vol.~1,  pp. 527--533. IEEE, 2002.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{reinke2019factor}
+Reinke, Andrzej, Camurri, Marco, and Semini, Claudio.
+\newblock A factor graph approach to multi-camera extrinsic calibration on
+  legged robots.
+\newblock  in {\em 2019 Third IEEE International Conference on Robotic
+  Computing (IRC)},  pp. 391--394. IEEE, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kummerle2011simultaneous}
+K{\"u}mmerle, Rainer, Grisetti, Giorgio, and Burgard, Wolfram.
+\newblock Simultaneous calibration, localization, and mapping.
+\newblock  in {\em 2011 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems},  pp. 3716--3721. IEEE, 2011.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{hall1997introduction}
 Hall, David~L and Llinas, James.
 \newblock An introduction to multisensor data fusion.
