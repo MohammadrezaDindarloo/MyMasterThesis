@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 [![LaTeX](https://img.shields.io/badge/LaTeX-PDF-brightgreen.svg)](https://github.com/your-repo)
 [![IROS 2023](https://img.shields.io/badge/Conference-IROS%202023-orange.svg)](https://www.iros2023.org/)
+[![IROS 2024](https://img.shields.io/badge/Conference-IROS%202024-orange.svg)](https://www.iros2024.org/)
 
 ## Abstract
 In today's world, robots have found a special place in various fields, including medicine, agriculture, and navigation industries. This thesis focuses on simplifying the use and increasing the accuracy of robotic systems by reducing repetitive pre-operation processes, such as sensor calibration. By leveraging graph-based algorithms, this research aims to develop a unified framework that simultaneously addresses sensor calibration, robot calibration, and localization, providing an integrated and flexible solution. The proposed approach is validated on a suspended underactuated parallel cable robot, demonstrating its effectiveness in handling complex robotic tasks and environmental uncertainties.
