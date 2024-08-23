@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.4.26)  23 AUG 2024 11:35
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.4.26)  23 AUG 2024 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2607,9 +2607,14 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
 [1] (./main.mw)
 \openout5 = `main.mw'.
 
+
+Overfull \hbox (12.7479pt too wide) in paragraph at lines 31--31
+ [][][] [][][][]\TU/IRLotusICEE.ttf(0)/b/n/12 پیاده سازی رویکرد مبتنی بر گراف ج
+هت مکان‌یابی و کالیبراسیون همزمان برای ربات‌های[][][] 
+ []
+
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
 (Font)              scaled to size 13.13995pt on input line 45.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 14.49998pt.
@@ -2621,10 +2626,11 @@ This may cause the page layout to be inconsistent, however.
 [2] (./main.mw)
 \openout5 = `main.mw'.
 
-)
-\tf@toc=\write25
-\openout5 = `main.toc'.
 
+Overfull \hbox (12.7479pt too wide) in paragraph at lines 45--45
+ [][][] [][][][]\TU/IRLotusICEE.ttf(0)/b/n/12 پیاده سازی رویکرد مبتنی بر گراف ج
+هت مکان‌یابی و کالیبراسیون همزمان برای ربات‌های[][][] 
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (14.49998pt): 
@@ -2637,16 +2643,21 @@ This may cause the page layout to be inconsistent, however.
 [3] (./main.mw)
 \openout5 = `main.mw'.
 
- (./main.lof)
-\tf@lof=\write26
-\openout5 = `main.lof'.
+)
+\tf@toc=\write25
+\openout5 = `main.toc'.
 
+\openout5 = `main.mw'.
 
+ [4] (./main.mw)
+\openout5 = `main.mw'.
+
+ (./main.lof
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [4
+ [5
 
 ]
 (./main.mw)
@@ -2656,9 +2667,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+)
+\tf@lof=\write26
+\openout5 = `main.lof'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (14.53741pt): 
+Make it at least 16.03508pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
 \openout5 = `main.mw'.
 
- [5] (./main.mw)
+[6] (./main.mw)
 \openout5 = `main.mw'.
 
  (./main.lot)
@@ -2667,7 +2689,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [6
+ [7
 
 ] (./main.mw)
 \openout5 = `main.mw'.
@@ -2814,6 +2836,12 @@ Overfull \hbox (9.14978pt too wide) in paragraph at lines 95--97
 
  (./tex/chapter2.tex
 فصل 2.
+
+Overfull \hbox (4.80676pt too wide) in paragraph at lines 9--10
+[]\TU/IRLotusICEE.ttf(1)/b/n/12 ربات‌ها با هدف بهبود دقت مکان‌یابی آن‌ها، از اه
+میت ویژه‌ای برخوردار است. روش‌های مختلفی برای کالیبراسیون[]
+ []
+
 \openout5 = `main.mw'.
 
 [9
@@ -2836,12 +2864,6 @@ Overfull \hbox (4.55362pt too wide) in paragraph at lines 27--28
 []\TU/IRLotusICEE.ttf(1)/b/n/12 این روش قابلیت ترکیب در فیلترهای کالمن و یا تخم
 ین‌گرهای مبتنی بر بهینه‌سازی پنجره‌ای را داراست. آزمایش‌های[]
  []
-
-
-Package Fancyhdr Warning: \headheight is too small (14.53741pt): 
-Make it at least 15.52013pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
 
 \openout5 = `main.mw'.
 
@@ -2909,23 +2931,23 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [14] (./main.mw)
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
 
-Overfull \hbox (8.28023pt too wide) in paragraph at lines 149--151
+ [15] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Overfull \hbox (8.28023pt too wide) in paragraph at lines 151--153
 [][]\TU/IRLotusICEE.ttf(1)/b/n/12 رویکردهای سنتی مکان‌یابی اغلب منفعل هستند، به
  این معنا که به داده‌های حسگرهای موجود بدون تأثیرگذاری[]
  []
 
-\openout5 = `main.mw'.
 
-[15] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Overfull \hbox (2.6693pt too wide) in paragraph at lines 163--166
+Overfull \hbox (2.6693pt too wide) in paragraph at lines 164--169
 [][]\TU/IRLotusICEE.ttf(1)/b/n/12 در مطالعات اخیر، ترکیب اندازه‌گیری‌های اینرسی
  با مدل‌های سینماتیکی برای بهبود دقت مکان‌یابی ربات‌های[]
  []
@@ -2952,21 +2974,9 @@ Overfull \hbox (2.6693pt too wide) in paragraph at lines 163--166
 
 \openout5 = `main.mw'.
 
-
-Overfull \hbox (7.52931pt too wide) in paragraph at lines 188--188
-[][]\TU/IRLotusICEE.ttf(0)/b/n/17.28 مروری بر مطالعات انجام‌شده در ترکیب وظایف 
-رباتیکی با استفاده[]
- []
-
-
-Overfull \hbox (1.45996pt too wide) in paragraph at lines 191--192
-[][]\TU/IRLotusICEE.ttf(1)/b/n/12 روش‌های کالیبراسیون و مکان‌یابی برای ربات‌ها 
-به طور گسترده‌ای مورد مطالعه قرار گرفته‌اند، زیرا این پارامترها[]
- []
-
 \openout5 = `main.mw'.
 
-[18] (./main.mw)
+ [18] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -2978,7 +2988,7 @@ Overfull \hbox (1.45996pt too wide) in paragraph at lines 191--192
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (3.52007pt too wide) in paragraph at lines 209--210
+Overfull \hbox (3.52007pt too wide) in paragraph at lines 203--204
 []\TU/IRLotusICEE.ttf(1)/b/n/12 کمتر پیچیده، یک الگوریتم ترکیبی برای کالیبراسیو
 ن و مکان‌یابی ربات ارائه دهند. اما با وجود تلاش‌های انجام‌شده،[]
  []
@@ -3036,10 +3046,6 @@ File: img/kinematic_model_error.pdf Graphic file (type pdf)
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
 (Font)              scaled to size 7.19998pt on input line 32.
-Missing character: There is no ا in font cmmi12!
-Missing character: There is no م in font cmmi12!
-Missing character: There is no ی in font cmmi12!
-Missing character: There is no ن in font cmmi12!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -3075,21 +3081,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-
-Overfull \hbox (15.20406pt too wide) in paragraph at lines 119--119
-[][]\TU/IRLotusICEE.ttf(0)/b/n/17.28 رویکرد گراف مبنا برای حل مسئله کالیبراسیون
- و مکان‌یابی به صورت[]
- []
-
-
-Overfull \hbox (3.17555pt too wide) in paragraph at lines 126--127
-[][]\TU/IRLotusICEE.ttf(1)/b/n/12 در این فصل، رویکردی گراف مبنا برای حل مسئله ک
-الیبراسیون و مکان‌یابی ربات بیان می‌گردد که با فرمول‌بندی[]
- []
-
 \openout5 = `main.mw'.
 
-[26] (./main.mw)
+ [26] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3097,7 +3091,7 @@ Overfull \hbox (3.17555pt too wide) in paragraph at lines 126--127
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (0.55284pt too wide) in paragraph at lines 128--131
+Overfull \hbox (0.55284pt too wide) in paragraph at lines 126--129
 []\TU/IRLotusICEE.ttf(1)/b/n/12 علاوه بر این، از آنجایی که پیاده‌سازی‌های منابع
  باز و بهینه‌سازی شده برای این روش وجود دارد، مسئله کالیبراسیون[]
  []
@@ -3155,14 +3149,17 @@ Underfull \vbox (badness 1701) has occurred while \output is active []
 
 File: img/ARASH_ASIST_Structure.png Graphic file (type bmp)
 <img/ARASH_ASIST_Structure.png>
+File: img/Kinematic_localization_basic_nonstationaty_param.pdf Graphic file (ty
+pe pdf)
+<use img/Kinematic_localization_basic_nonstationaty_param.pdf>
 
-Overfull \hbox (6.90215pt too wide) in paragraph at lines 321--325
+Overfull \hbox (6.90215pt too wide) in paragraph at lines 319--329
 [][]\TU/IRLotusICEE.ttf(1)/b/n/12 شکل [][][]۳.‏۶[][][] نشان دهنده گراف قابل است
 فاده دیگری می باشند که عاری از فرض ثابت بودن پارامترهای کالیبراسیون[]
  []
 
 
-Underfull \vbox (badness 3260) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
@@ -3170,9 +3167,6 @@ Underfull \vbox (badness 3260) has occurred while \output is active []
 (./main.mw)
 \openout5 = `main.mw'.
 
-File: img/Kinematic_localization_basic_nonstationaty_param.pdf Graphic file (ty
-pe pdf)
-<use img/Kinematic_localization_basic_nonstationaty_param.pdf>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -3236,38 +3230,13 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
 
 File: img/arascam.pdf Graphic file (type pdf)
 <use img/arascam.pdf>
-\openout5 = `main.mw'.
 
- [37] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [38] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [39] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-File: img/rigidcable_factorgraph.pdf Graphic file (type pdf)
-<use img/rigidcable_factorgraph.pdf>
-
-Overfull \vbox (14.81363pt too high) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
-
-[40] (./main.mw)
+ [37]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3279,8 +3248,41 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [41]
+ [38]
 (./main.mw)
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [39]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+File: img/rigidcable_factorgraph.pdf Graphic file (type pdf)
+<use img/rigidcable_factorgraph.pdf>
+
+Overfull \vbox (4.37949pt too high) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+
+[40] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [41] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3297,7 +3299,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (5.2638pt too wide) in paragraph at lines 256--259
+Overfull \hbox (5.2638pt too wide) in paragraph at lines 251--254
 []\TU/IRLotusICEE.ttf(1)/b/n/12 ماتریس‌های کوواریانس نویز در دست داشته باشیم.رو
 شی که برای دستیابی به این موارد معرفی می کنیم، الگوریتمی[]
  []
@@ -3314,11 +3316,9 @@ File: img/monte_carlo.pdf Graphic file (type pdf)
 \openout5 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 295.
+(Font)              scaled to size 11.99997pt on input line 290.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
-(Font)              scaled to size 5.99998pt on input line 295.
-File: img/calibration_result_rigid.pdf Graphic file (type pdf)
-<use img/calibration_result_rigid.pdf>
+(Font)              scaled to size 5.99998pt on input line 290.
 \openout5 = `main.mw'.
 
  [44] (./main.mw)
@@ -3328,30 +3328,25 @@ File: img/calibration_result_rigid.pdf Graphic file (type pdf)
 
 \openout5 = `main.mw'.
 
+File: img/calibration_result_rigid.pdf Graphic file (type pdf)
+<use img/calibration_result_rigid.pdf>
 File: img/trajectory_and_pully_in_rigid_cable.pdf Graphic file (type pdf)
 <use img/trajectory_and_pully_in_rigid_cable.pdf>
-\openout5 = `main.mw'.
 
- [45] (./main.mw)
-\openout5 = `main.mw'.
+Overfull \vbox (15.46883pt too high) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+
+[45] (./main.mw)
 \openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [46] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-)
-\openout5 = `main.mw'.
-
- [47]
+ [46]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -3361,7 +3356,21 @@ File: img/trajectory_and_pully_in_rigid_cable.pdf Graphic file (type pdf)
 
 \openout5 = `main.mw'.
 
+ [47] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+)
+\openout5 = `main.mw'.
+
  [48] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/chapter5.aux'.
@@ -3369,7 +3378,7 @@ File: img/trajectory_and_pully_in_rigid_cable.pdf Graphic file (type pdf)
  (./tex/chapter5.tex
 فصل 5.
 
-Underfull \vbox (badness 1810) has occurred while \output is active []
+Underfull \vbox (badness 1082) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
@@ -3388,7 +3397,7 @@ Underfull \vbox (badness 1810) has occurred while \output is active []
 File: img/robot_frame.pdf Graphic file (type pdf)
 <use img/robot_frame.pdf>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1742) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
@@ -3625,9 +3634,9 @@ Overfull \hbox (3.64272pt too wide) in paragraph at lines 41--43
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (16.6029pt too wide) in paragraph at lines 58--60
+Overfull \hbox (1.59122pt too wide) in paragraph at lines 58--60
 [][]\TU/IRLotusICEE.ttf(0)/b/n/12 توسعه فرمول‌بندی ریاضی بیان شده به ریاضیات اج
-زای محدود به جای مدل‌های استاتیک معرفی‌شده:[]
+زای محدود به جای مدل‌های اسیتا معرفی‌شده:[]
  []
 
 \openout5 = `main.mw'.
@@ -3703,11 +3712,11 @@ o, Se-Hyoung, Hong, Young-Dae, and Kim, Jong-[]
 \openout5 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 816.
+(Font)              scaled to size 13.13995pt on input line 826.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/bx/n' will be
-(Font)              scaled to size 13.13995pt on input line 816.
+(Font)              scaled to size 13.13995pt on input line 826.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
-(Font)              scaled to size 13.13995pt on input line 816.
+(Font)              scaled to size 13.13995pt on input line 826.
 )
 \openout5 = `main.mw'.
 
@@ -3755,27 +3764,57 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./main.mw)
 \openout5 = `main.mw'.
 
+File: img/StateEstimationFGAppendinx.pdf Graphic file (type pdf)
+<use img/StateEstimationFGAppendinx.pdf>
+\openout5 = `main.mw'.
 
-Overfull \hbox (4.2921pt too wide) detected at line 102
-[]\OML/cmm/m/it/12 l\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 X\OT1/cmr/m/n/12 ; \OML/c
-mm/m/it/12 z\OT1/cmr/m/n/12 ) = [] [] \OML/cmm/m/it/12 ;  l\OT1/cmr/m/n/12 (\OM
-L/cmm/m/it/12 X[]\OT1/cmr/m/n/12 ; \OML/cmm/m/it/12 X[]\OT1/cmr/m/n/12 ) = [] [
-]
+ [82] (./main.mw)
+\openout5 = `main.mw'.
+
+
+Overfull \hbox (1.74821pt too wide) in paragraph at lines 147--148
+[][]\TU/IRLotusICEE.ttf(1)/b/n/12 بهینه‌سازهای دسته‌ای با گذشت زمان در پیچیدگی 
+رشد می‌کنند، بنابراین اجرای آن‌ها در زمان واقعی غیرممکن[]
  []
+
+\openout5 = `main.mw'.
+
+[83] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [84] (./main.mw)
+\openout5 = `main.mw'.
 
 )
 \openout5 = `main.mw'.
 
- [82] (./main.mw)
+ [85] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [86
+
+
+] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
  [1
 
-
-
-] (./main.mw)
+]
+(./main.mw)
 \openout5 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
@@ -3784,8 +3823,6 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 95.
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 95.
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 95.
 \openout5 = `main.mw'.
 
  [2] (./main.mw)
@@ -3808,8 +3845,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
 (Font)              scaled to size 24.88pt on input line 96.
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
 (Font)              scaled to size 24.88pt on input line 96.
-
-
+ 
 AED: lastpage setting LastPage
 \openout5 = `main.mw'.
 
@@ -4241,6 +4277,18 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 )
 \openout5 = `main.mw'.
 
@@ -4252,7 +4300,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
 \openout5 = `main.out'.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AE28CE39AE13F513C2705C886773EF9C;6532.
+(rerunfilecheck)             Checksum: E3850A7D9BE5534BA05CB8AE2D855EE4;6682.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -4276,12 +4324,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 39702 strings out of 479819
- 751356 string characters out of 5895846
- 1182782 words of memory out of 5000000
- 55514 multiletter control sequences out of 15000+600000
- 549982 words of font info for 167 fonts, out of 8000000 for 9000
+ 39729 strings out of 479819
+ 751805 string characters out of 5895846
+ 1188241 words of memory out of 5000000
+ 55531 multiletter control sequences out of 15000+600000
+ 549974 words of font info for 166 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  76i,26n,92p,4840b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (102 pages).
+Output written on main.pdf (107 pages).

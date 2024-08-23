@@ -4,19 +4,22 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \latinuniversity{K. N. Toosi University of Technology}
 \latincollege{...}
-\latinfaculty{Faculty of ...}
-\latindepartment{... Group}
-\latinsubject{... Engineering}
+\latinfaculty{Faculty of Electrical Engineering}
+\latindepartment{Control Group}
+\latinsubject{Electrical Engineering}
 %\latinfield{field}
-\latintitle{Prepared template for writing projects, theses, and dissertations of K. N. Toosi university of technology }
-\firstlatinsupervisor{First Supervisor}
-\secondlatinsupervisor{Second Supervisor}
-\firstlatinadvisor{First Advisor}
-\secondlatinadvisor{Second Advisor}
-\latinname{Mohammad Sina}
-\latinsurname{Allahkaram}
-\latinthesisdate{Winter 2023}
-\latinkeywords{Writing Thesis, Template, \LaTeX, \XePersian}
+\latintitle{‫‪Development‬‬ ‫‪of‬‬ ‫‪a‬‬ ‫‪Graph-Based‬‬ ‫‪Unified‬‬ ‫‪Optimization‬‬ ‫‪framework‬‬ ‫‪for‬‬ ‫‪Robot‬‬ ‫‪Calibration‬‬ ‫‪and‬‬ ‫‪State‬‬ ‫‪Estimation‬‬}
+\firstlatinsupervisor{Prof. Hamid D. Taghirad}
+%\secondlatinsupervisor{Second Supervisor}
+\firstlatinadvisor{Prof. Philippe Cardou}
+\secondlatinadvisor{Dr. Seyed Ahmad Khalilpour}
+\latinname{Mohammadreza}
+\latinsurname{Dindarloo}
+\latinthesisdate{Winter 2024}
+\latinkeywords{Factor Graph, Calibration, Localization, SLAM}
 \en-abstract{
-This thesis studies on writing projects, theses and dissertations using kntu-thesis class. It ...
+In today's world, robots have established a significant presence in various fields, including medicine, agriculture, and navigation industries. Manufacturers, aiming to attract users, seek to simplify the use of robots and enhance their operational accuracy. One interpretation of this simplification is the reduction of repetitive processes before using these robots, such as the calibration of their sensors. In addition to sensor calibration, performing robot calibration is essential for achieving optimal performance. In some robots, this process may need to be performed periodically, while in others, it may be required each time the robot is powered on.
+To date, numerous algorithms with acceptable accuracy for various robots have been developed to handle this time-consuming and costly process. On the other hand, robot localization is considered one of the most critical components of these systems. The importance of this aspect has led to extensive research in this area. Recent studies have attempted to improve results by combining data from different sensors.
+This shift has led researchers to move from traditional filter-based methods to newer graph-based approaches, as adding various sensors to robots requires greater flexibility in algorithms. In this thesis, we aim to start from this familiar point, review recent methods, and, by utilizing the platform provided by graph-based algorithms, develop a graph that not only effectively performs localization but also simultaneously handles sensor calibration and, furthermore, robot calibration, without the need for separate processes.
+This approach creates an integrated and flexible system where adding any constraints to the problem does not affect the previous formulations. To validate the proposed method, we have considered a suspended underactuated cable-driven parallel robot. Initially, we will create an integrated problem in the graph space that simultaneously performs visual sensor calibration, localization, and kinematic calibration of the robot without the need for prior processes, thereby achieving the concept of easy installation. Then, to assess the flexibility and evaluate our graph, we will incorporate cable bending equations, which are among the most complex equations in robotics, into the graph and analyze the results. 
 }

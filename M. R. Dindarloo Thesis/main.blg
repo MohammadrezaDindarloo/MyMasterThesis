@@ -3,15 +3,12 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: ./tex/chapter1.aux
 A level-1 auxiliary file: ./tex/chapter2.aux
-White space in argument---line 77 of file ./tex/chapter2.aux
- : \citation{Euler
- :                 angles}
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: ./tex/chapter3.aux
 A level-1 auxiliary file: ./tex/chapter4.aux
 A level-1 auxiliary file: ./tex/chapter5.aux
 A level-1 auxiliary file: ./tex/chapter6.aux
 The style file: unsrt-fa.bst
+A level-1 auxiliary file: ./tex/appendix1.aux
 Database file #1: ./tex/MyReferences.bib
 Repeated entry---line 281 of file ./tex/MyReferences.bib
  : @inproceedings{ida2019automatic
@@ -57,6 +54,14 @@ Repeated entry---line 1152 of file ./tex/MyReferences.bib
  : @inproceedings{burgard1997active
  :                                 ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 1273 of file ./tex/MyReferences.bib
+ : @article{song2021tightly
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1297 of file ./tex/MyReferences.bib
+ : @article{dai2022uav
+ :                    ,
+I'm skipping whatever remains of this entry
 -- unsrt-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 Warning--empty journal in filtermobile
@@ -64,45 +69,45 @@ Warning--empty year in filtermobile
 Warning--empty journal in ida2021dynamics
 
 Done.
-You've used 80 entries,
+You've used 83 entries,
             2198 wiz_defined-function locations,
-            1012 strings with 21401 characters,
-and the built_in function-call counts, 25464 in all, are:
-= -- 2249
-> -- 1069
-< -- 30
-+ -- 386
-- -- 306
-* -- 1704
-:= -- 3565
-add.period$ -- 266
-call.type$ -- 80
-change.case$ -- 77
+            1029 strings with 22001 characters,
+and the built_in function-call counts, 26371 in all, are:
+= -- 2327
+> -- 1114
+< -- 31
++ -- 402
+- -- 319
+* -- 1755
+:= -- 3691
+add.period$ -- 276
+call.type$ -- 83
+change.case$ -- 80
 chr.to.int$ -- 0
-cite$ -- 83
-duplicate$ -- 1064
-empty$ -- 2261
-format.name$ -- 306
-if$ -- 6090
+cite$ -- 86
+duplicate$ -- 1101
+empty$ -- 2340
+format.name$ -- 319
+if$ -- 6310
 int.to.chr$ -- 0
-int.to.str$ -- 80
-missing$ -- 374
-newline$ -- 725
-num.names$ -- 80
-pop$ -- 261
+int.to.str$ -- 83
+missing$ -- 387
+newline$ -- 752
+num.names$ -- 83
+pop$ -- 275
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 573
+skip$ -- 597
 stack$ -- 0
-substring$ -- 1973
-swap$ -- 367
-text.length$ -- 30
+substring$ -- 2029
+swap$ -- 382
+text.length$ -- 31
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 3
-while$ -- 234
-width$ -- 82
-write$ -- 1141
-(There were 12 error messages)
+while$ -- 242
+width$ -- 85
+write$ -- 1183
+(There were 13 error messages)

@@ -497,6 +497,45 @@ Blok, Pieter~M, van Boheemen, Koen, van Evert, Frits~K, IJsselmuiden, Joris,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{yang2022indoor}
+Yang, Lyuxiao, Wu, Nan, Li, Bin, Yuan, Weijie, and Hanzo, Lajos.
+\newblock Indoor localization based on factor graphs: A unified framework.
+\newblock {\em IEEE Internet of Things Journal}, 10(5):4353--4366, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{song2021tightly}
+Song, Yang and Hsu, Li-Ta.
+\newblock Tightly coupled integrated navigation system via factor graph for uav
+  indoor localization.
+\newblock {\em Aerospace Science and Technology}, 108:106370, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{li2015gaussian}
+Li, Bin, Wu, Nan, Wang, Hua, Tseng, Po-Hsuan, and Kuang, Jingming.
+\newblock Gaussian message passing-based cooperative localization on factor
+  graph in wireless networks.
+\newblock {\em Signal Processing}, 111:1--12, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{dai2022uav}
+Dai, Jun, Liu, Songlin, Hao, Xiangyang, Ren, Zongbin, and Yang, Xiao.
+\newblock Uav localization algorithm based on factor graph optimization in
+  complex scenes.
+\newblock {\em Sensors}, 22(15):5862, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{burgard1997active2}
 Burgard, Wolfram, Fox, Dieter, and Thrun, Sebastian.
 \newblock Active mobile robot localization by entropy minimization.
@@ -678,25 +717,6 @@ Panigrahi, Prabin~Kumar and Bisoy, Sukant~Kishoro.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{yang2022indoor}
-Yang, Lyuxiao, Wu, Nan, Li, Bin, Yuan, Weijie, and Hanzo, Lajos.
-\newblock Indoor localization based on factor graphs: A unified framework.
-\newblock {\em IEEE Internet of Things Journal}, 10(5):4353--4366, 2022.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{song2021tightly}
-Song, Yang and Hsu, Li-Ta.
-\newblock Tightly coupled integrated navigation system via factor graph for uav
-  indoor localization.
-\newblock {\em Aerospace Science and Technology}, 108:106370, 2021.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{leitinger2017factor}
 Leitinger, Erik, Meyer, Florian, Tufvesson, Fredrik, and Witrisal, Klaus.
 \newblock Factor graph based simultaneous localization and mapping using
@@ -714,16 +734,6 @@ Wilbers, Daniel, Merfels, Christian, and Stachniss, Cyrill.
   for automated driving.
 \newblock  in {\em 2019 International conference on robotics and automation
   (ICRA)},  pp. 5951--5957. IEEE, 2019.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{dai2022uav}
-Dai, Jun, Liu, Songlin, Hao, Xiangyang, Ren, Zongbin, and Yang, Xiao.
-\newblock Uav localization algorithm based on factor graph optimization in
-  complex scenes.
-\newblock {\em Sensors}, 22(15):5862, 2022.
 
 \end{LTRbibitems}
 
@@ -827,6 +837,26 @@ Martiros, Hayk, Miller, Aaron, Bucki, Nathan, Solliday, Bradley, Kennedy, Ryan,
   Kristen.
 \newblock {SymForce: Symbolic Computation and Code Generation for Robotics}.
 \newblock  in {\em Proceedings of Robotics: Science and Systems}, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kaess2012concurrent}
+Kaess, Michael, Williams, Stephen, Indelman, Vadim, Roberts, Richard, Leonard,
+  John~J, and Dellaert, Frank.
+\newblock Concurrent filtering and smoothing.
+\newblock  in {\em 2012 15th International Conference on Information Fusion},
+  pp. 1300--1307. IEEE, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{gtsam}
+Dellaert, Frank et~al.
+\newblock Georgia tech smoothing and mapping (gtsam) library, 2010--2023.
+\newblock Available at \url{https://github.com/borglab/gtsam}.
 
 \end{LTRbibitems}
 
