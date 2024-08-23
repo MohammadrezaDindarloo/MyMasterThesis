@@ -507,6 +507,37 @@ Burgard, Wolfram, Fox, Dieter, and Thrun, Sebastian.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{murtra2013imu}
+Murtra, Andreu~Corominas and Tur, Josep M~Mirats.
+\newblock Imu and cable encoder data fusion for in-pipe mobile robot
+  localization.
+\newblock  in {\em 2013 IEEE Conference on Technologies for Practical Robot
+  Applications (TePRA)},  pp. 1--6. IEEE, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kim2020robotic}
+Kim, Min-Cheol, Kim, Eui-Sun, Park, Jong-Oh, Choi, Eunpyo, and Kim, Chang-Sei.
+\newblock Robotic localization based on planar cable robot and hall sensor
+  array applied to magnetic capsule endoscope.
+\newblock {\em Sensors}, 20(20):5728, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{le2021cable}
+Le~Nguyen, Vinh and Caverly, Ryan~James.
+\newblock Cable-driven parallel robot pose estimation using extended kalman
+  filtering with inertial payload measurements.
+\newblock {\em IEEE Robotics and Automation Letters}, 6(2):3615--3622, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{kummerle2012simultaneous}
 K{\"u}mmerle, Rainer, Grisetti, Giorgio, and Burgard, Wolfram.
 \newblock Simultaneous parameter calibration, localization, and mapping.
