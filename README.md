@@ -48,9 +48,9 @@ The thesis outlines several directions for future research, including the extens
   organization={IEEE}
 }
 
-@inproceedings{dindarloo2024iros,
-  title={Coming IROS 2024 ...},
-  author={Khorrambakht, Rooholla and others},
+@inproceedings{Coming IROS 2024 ...,
+  title={A Graph-Based Self-Calibration Technique for Cable-Driven Robots with Sagging Cable},
+  author={Dindarloo, MR and Mirjalili, AS and Khalilpour, SA and Khorrambakht, Rooholla and Weiss, Stephan and Taghirad, Hamid D},
   booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year={2024},
   organization={IEEE}
