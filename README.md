@@ -46,6 +46,5 @@ I would like to express my deepest gratitude to my supervisor, Dr. Hamidreza Tag
   organization={IEEE}
 }
 
-and
-```bibtex
+also,
 Coming IROS 2024 ...
