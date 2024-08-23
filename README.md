@@ -1,5 +1,10 @@
 # Development of a Graph-Based Unified Optimization Framework for Robot Calibration and State Estimation
 
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-repo) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+[![LaTeX](https://img.shields.io/badge/LaTeX-PDF-brightgreen.svg)](https://github.com/your-repo)
+[![IROS 2023](https://img.shields.io/badge/Conference-IROS%202023-orange.svg)](https://www.iros2023.org/)
+
 ## Abstract
 In today's world, robots have found a special place in various fields, including medicine, agriculture, and navigation industries. This thesis focuses on simplifying the use and increasing the accuracy of robotic systems by reducing repetitive pre-operation processes, such as sensor calibration. By leveraging graph-based algorithms, this research aims to develop a unified framework that simultaneously addresses sensor calibration, robot calibration, and localization, providing an integrated and flexible solution. The proposed approach is validated on a suspended underactuated parallel cable robot, demonstrating its effectiveness in handling complex robotic tasks and environmental uncertainties.
 
@@ -10,7 +15,6 @@ In today's world, robots have found a special place in various fields, including
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
-- [Acknowledgments](#acknowledgments)
 - [References](#references)
 
 ## Introduction
@@ -31,9 +35,6 @@ The thesis concludes with a summary of the findings, emphasizing the benefits of
 ## Future Work
 The thesis outlines several directions for future research, including the extension of the framework to more complex robotic systems, the incorporation of additional sensors, and the exploration of real-time implementation possibilities.
 
-## Acknowledgments
-I would like to express my deepest gratitude to my supervisor, Dr. Hamidreza Taghirad, for his invaluable guidance and support throughout this research. I am also thankful to Dr. Ahmad Khalilpour and Dr. Philippe Cardou for their insightful advice and feedback. My heartfelt thanks go to my friends and colleagues at ARAS Lab, whose help and encouragement were crucial in the completion of this work.
-
 ## References
 
 ```bibtex
@@ -46,5 +47,11 @@ I would like to express my deepest gratitude to my supervisor, Dr. Hamidreza Tag
   organization={IEEE}
 }
 
-also,
-Coming IROS 2024 ...
+@inproceedings{dindarloo2024iros,
+  title={Coming IROS 2024 ...},
+  author={Khorrambakht, Rooholla and others},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2024},
+  organization={IEEE}
+}
+
