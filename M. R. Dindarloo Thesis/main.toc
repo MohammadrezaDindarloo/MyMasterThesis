@@ -3,15 +3,15 @@
 \contentsline {chapter}{فهرست جداول}{چ}{section*.4}%
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}بیان مسئله}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}اهمیت تحقیق}{5}{section.1.2}%
+\contentsline {section}{\numberline {1.2}اهمیت تحقیق}{6}{section.1.2}%
 \contentsline {section}{\numberline {1.3}اهداف تحقیق}{6}{section.1.3}%
 \contentsline {section}{\numberline {1.4}روش تحقیق}{7}{section.1.4}%
 \contentsline {chapter}{\numberline {2}مروری بر مطالعات انجام شده}{9}{chapter.2}%
 \contentsline {section}{\numberline {2.1}مروری بر مطالعات انجام شده در حوزه کالیبراسیون}{9}{section.2.1}%
 \contentsline {section}{\numberline {2.2}مروری بر مطالعات انجام شده در حوزه مکان‌یابی}{13}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}تکنیک‌های مکان‌یابی احتمالی}{13}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}تکنیک‌های ترکیب حسگرها}{15}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}تکنیک‌های مکان‌یابی فعال}{16}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.1}روش‌های مکان‌یابی احتمالی}{13}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}روش‌های ترکیب حسگرها}{15}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}روش‌های مکان‌یابی فعال}{16}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}مروری خاص بر مکان‌یابی ربات‌های کابلی}{16}{subsection.2.2.4}%
 \contentsline {subsection}{\numberline {2.2.5}تحلیل مقایسه‌ای و بحث}{17}{subsection.2.2.5}%
 \contentsline {section}{\numberline {2.3}مروری بر مطالعات انجام‌شده در ترکیب وظایف رباتیکی}{18}{section.2.3}%
