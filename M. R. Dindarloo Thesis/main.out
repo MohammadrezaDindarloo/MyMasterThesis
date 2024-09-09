@@ -44,12 +44,12 @@
 \BOOKMARK [2][-]{subsection.4.4.4}{انتشار عدم قطعیت}{section.4.4}% 44
 \BOOKMARK [1][-]{section.4.5}{بحث و گفت‌وگو}{chapter.4}% 45
 \BOOKMARK [1][-]{section.4.6}{نتیجه‌گیری}{chapter.4}% 46
-\BOOKMARK [0][-]{chapter.5}{پیاده سازی رویکرد مبتنی بر گراف جهت مکان‌یابی و کالیبراسیون همزمان برای ربات‌های کابلی خم‌شده}{}% 47
+\BOOKMARK [0][-]{chapter.5}{پیاده سازی رویکرد مبتنی بر گراف جهت مکان‌یابی و کالیبراسیون همزمان برای ربات‌های کابلی شکم‌دار}{}% 47
 \BOOKMARK [1][-]{section.5.1}{نمادها و تعاریف}{chapter.5}% 48
-\BOOKMARK [1][-]{section.5.2}{معادلات مدل کابل خم‌شده}{chapter.5}% 49
+\BOOKMARK [1][-]{section.5.2}{معادلات مدل کابل شکم‌دار}{chapter.5}% 49
 \BOOKMARK [1][-]{section.5.3}{سینماتیک ربات}{chapter.5}% 50
 \BOOKMARK [1][-]{section.5.4}{گراف عامل کالیبراسیون و مکان‌یابی همزمان سینماتیک-ایستا}{chapter.5}% 51
-\BOOKMARK [2][-]{subsection.5.4.1}{عامل طول کابل خم‌شده}{section.5.4}% 52
+\BOOKMARK [2][-]{subsection.5.4.1}{عامل طول کابل شکم‌دار}{section.5.4}% 52
 \BOOKMARK [2][-]{subsection.5.4.2}{عامل مکان اتصال کابل به پولی}{section.5.4}% 53
 \BOOKMARK [2][-]{subsection.5.4.3}{عامل اندازه‌گیری نیرو}{section.5.4}% 54
 \BOOKMARK [2][-]{subsection.5.4.4}{عامل پیشین مکان}{section.5.4}% 55
@@ -57,7 +57,7 @@
 \BOOKMARK [2][-]{subsection.5.5.1}{صحت‌سنجی مدل}{section.5.5}% 57
 \BOOKMARK [2][-]{subsection.5.5.2}{نتایج نهایی کالیبراسیون با گراف عامل توسعه‌ داده‌شده}{section.5.5}% 58
 \BOOKMARK [1][-]{section.5.6}{بحث و گفت‌وگو}{chapter.5}% 59
-\BOOKMARK [2][-]{subsection.5.6.1}{اهمیت در نظر گرفتن اثر خم‌شدگی کابل}{section.5.6}% 60
+\BOOKMARK [2][-]{subsection.5.6.1}{اهمیت در نظر گرفتن اثر شکم‌دهی کابل}{section.5.6}% 60
 \BOOKMARK [2][-]{subsection.5.6.2}{نکات مربوط به روش مقداردهی اولیه}{section.5.6}% 61
 \BOOKMARK [1][-]{section.5.7}{نتیجه‌گیری}{chapter.5}% 62
 \BOOKMARK [0][-]{chapter.6}{نتیجه‌گیری و پیشنهادات برای آینده}{}% 63
