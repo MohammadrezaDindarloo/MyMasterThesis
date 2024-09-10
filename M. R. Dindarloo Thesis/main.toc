@@ -42,12 +42,12 @@
 \contentsline {subsection}{\numberline {4.4.1}راه‌اندازی سیستم و فرضیات}{44}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.2}کالیبراسیون خودکار بدون پارامترهای اولیه}{45}{subsection.4.4.2}%
 \contentsline {subsection}{\numberline {4.4.3}ترکیب بینایی-سینماتیک و استفاده از گراف عامل معرفی شده}{46}{subsection.4.4.3}%
-\contentsline {subsection}{\numberline {4.4.4}انتشار عدم قطعیت}{48}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.4}انتشار عدم قطعیت}{47}{subsection.4.4.4}%
 \contentsline {section}{\numberline {4.5}بحث و گفت‌وگو}{49}{section.4.5}%
 \contentsline {section}{\numberline {4.6}نتیجه‌گیری}{50}{section.4.6}%
-\contentsline {chapter}{\numberline {5}پیاده سازی رویکرد مبتنی بر گراف جهت مکان‌یابی و کالیبراسیون همزمان برای ربات‌های کابلی شکم‌دار}{51}{chapter.5}%
+\contentsline {chapter}{\numberline {5}پیاده سازی رویکرد مبتنی بر گراف جهت مکان‌یابی و کالیبراسیون همزمان برای ربات هایی با کابل های شکم داده}{51}{chapter.5}%
 \contentsline {section}{\numberline {5.1}نمادها و تعاریف}{52}{section.5.1}%
-\contentsline {section}{\numberline {5.2}معادلات مدل کابل شکم‌دار}{53}{section.5.2}%
+\contentsline {section}{\numberline {5.2}معادلات مدل کابل شکم‌داده}{53}{section.5.2}%
 \contentsline {section}{\numberline {5.3}سینماتیک ربات}{54}{section.5.3}%
 \contentsline {section}{\numberline {5.4}گراف عامل کالیبراسیون و مکان‌یابی همزمان سینماتیک-ایستا}{56}{section.5.4}%
 \contentsline {subsection}{\numberline {5.4.1}عامل طول کابل شکم‌دار}{57}{subsection.5.4.1}%
