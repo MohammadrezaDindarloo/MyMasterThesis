@@ -107,17 +107,6 @@ Park, In-Won, Lee, Bum-Joo, Cho, Se-Hyoung, Hong, Young-Dae, and Kim,
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{wang2012screw}
-Wang, Haixia, Shen, Shuhan, and Lu, Xiao.
-\newblock A screw axis identification method for serial robot calibration based
-  on the poe model.
-\newblock {\em Industrial Robot: An International Journal}, 39(2):146--153,
-  2012.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{li2011optimal}
 Li, Tian, Sun, Kui, Xie, Zong-wu, and Liu, Hong.
 \newblock Optimal measurement configurations for kinematic calibration of
@@ -148,28 +137,6 @@ Bl{\"o}chliger, Fabian, Bl{\"o}sch, Michael, Fankhauser, P{\'e}ter, Hutter,
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{bloesch2013kinematic}
-Bloesch, Michael, Hutter, Marco, Gehring, Christian, Hoepflinger, Mark~A, and
-  Siegwart, Roland.
-\newblock Kinematic batch calibration for legged robots.
-\newblock  in {\em 2013 IEEE International Conference on Robotics and
-  Automation},  pp. 2542--2547. IEEE, 2013.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{roberti2020improving}
-Roberti, Andrea, Piccinelli, Nicola, Meli, Daniele, Muradore, Riccardo, and
-  Fiorini, Paolo.
-\newblock Improving rigid 3-d calibration for robotic surgery.
-\newblock {\em IEEE Transactions on Medical Robotics and Bionics},
-  2(4):569--573, 2020.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{wang2017vision}
 Wang, Zerui, Liu, Ziwei, Ma, Qianli, Cheng, Alexis, Liu, Yun-hui, Kim, Sungmin,
   Deguet, Anton, Reiter, Austin, Kazanzides, Peter, and Taylor, Russell~H.
@@ -181,24 +148,12 @@ Wang, Zerui, Liu, Ziwei, Ma, Qianli, Cheng, Alexis, Liu, Yun-hui, Kim, Sungmin,
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{hassani2021kinematic}
-Hassani, A, Dindarloo, MR, Khorambakht, R, Bataleblu, A, Sadeghi, H, Heidari,
-  R, Iranfar, A, Hasani, P, Hojati, NS, Khorasani, A, et~al.
-\newblock Kinematic and dynamic analysis of arash asist: Toward micro
-  positioning.
-\newblock  in {\em 2021 9th RSI International Conference on Robotics and
-  Mechatronics (ICRoM)},  pp. 59--65. IEEE, 2021.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{dindarloo2023kinematic}
-Dindarloo, MR, Mirjalili, AS, Khorrambakht, R, Khalilpour, SA, Cardou, P, and
-  Taghirad, HD.
-\newblock Kinematic calibration of a spherical parallel robot.
-\newblock  in {\em 2023 11th RSI International Conference on Robotics and
-  Mechatronics (ICRoM)},  pp. 669--674. IEEE, 2023.
+\bibitem{roberti2020improving}
+Roberti, Andrea, Piccinelli, Nicola, Meli, Daniele, Muradore, Riccardo, and
+  Fiorini, Paolo.
+\newblock Improving rigid 3-d calibration for robotic surgery.
+\newblock {\em IEEE Transactions on Medical Robotics and Bionics},
+  2(4):569--573, 2020.
 
 \end{LTRbibitems}
 
@@ -311,16 +266,6 @@ Zhan, Ronghui and Wan, Jianwei.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{guo2014square}
-Guo, Junqi, Zhang, Hongyang, Sun, Yunchuan, and Bie, Rongfang.
-\newblock Square-root unscented kalman filtering-based localization and
-  tracking in the internet of things.
-\newblock {\em Personal and ubiquitous computing}, 18:987--996, 2014.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{xian2016square}
 Xian, Zhiwen, Lian, Junxiang, Shan, Mao, Zhang, Lilian, He, Xiaofeng, and Hu,
   Xiaoping.
@@ -328,15 +273,6 @@ Xian, Zhiwen, Lian, Junxiang, Shan, Mao, Zhang, Lilian, He, Xiaofeng, and Hu,
   based stereo cameras/inertial navigation.
 \newblock {\em International Journal of Advanced Robotic Systems},
   13(5):1729881416664850, 2016.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{filtermobile}
-Filter, Constrained Square-Root Unscented~Kalman.
-\newblock Mobile localization in non-line-of-sight using constrained
-  square-root unscented kalman filter.
 
 \end{LTRbibitems}
 
@@ -497,20 +433,11 @@ Blok, Pieter~M, van Boheemen, Koen, van Evert, Frits~K, IJsselmuiden, Joris,
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{yang2022indoor}
-Yang, Lyuxiao, Wu, Nan, Li, Bin, Yuan, Weijie, and Hanzo, Lajos.
-\newblock Indoor localization based on factor graphs: A unified framework.
-\newblock {\em IEEE Internet of Things Journal}, 10(5):4353--4366, 2022.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{song2021tightly}
-Song, Yang and Hsu, Li-Ta.
-\newblock Tightly coupled integrated navigation system via factor graph for uav
-  indoor localization.
-\newblock {\em Aerospace Science and Technology}, 108:106370, 2021.
+\bibitem{dai2022uav}
+Dai, Jun, Liu, Songlin, Hao, Xiangyang, Ren, Zongbin, and Yang, Xiao.
+\newblock Uav localization algorithm based on factor graph optimization in
+  complex scenes.
+\newblock {\em Sensors}, 22(15):5862, 2022.
 
 \end{LTRbibitems}
 
@@ -526,11 +453,20 @@ Li, Bin, Wu, Nan, Wang, Hua, Tseng, Po-Hsuan, and Kuang, Jingming.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{dai2022uav}
-Dai, Jun, Liu, Songlin, Hao, Xiangyang, Ren, Zongbin, and Yang, Xiao.
-\newblock Uav localization algorithm based on factor graph optimization in
-  complex scenes.
-\newblock {\em Sensors}, 22(15):5862, 2022.
+\bibitem{song2021tightly}
+Song, Yang and Hsu, Li-Ta.
+\newblock Tightly coupled integrated navigation system via factor graph for uav
+  indoor localization.
+\newblock {\em Aerospace Science and Technology}, 108:106370, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{yang2022indoor}
+Yang, Lyuxiao, Wu, Nan, Li, Bin, Yuan, Weijie, and Hanzo, Lajos.
+\newblock Indoor localization based on factor graphs: A unified framework.
+\newblock {\em IEEE Internet of Things Journal}, 10(5):4353--4366, 2022.
 
 \end{LTRbibitems}
 
@@ -739,6 +675,18 @@ Wilbers, Daniel, Merfels, Christian, and Stachniss, Cyrill.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{hassani2021kinematic}
+Hassani, A, Dindarloo, MR, Khorambakht, R, Bataleblu, A, Sadeghi, H, Heidari,
+  R, Iranfar, A, Hasani, P, Hojati, NS, Khorasani, A, et~al.
+\newblock Kinematic and dynamic analysis of arash asist: Toward micro
+  positioning.
+\newblock  in {\em 2021 9th RSI International Conference on Robotics and
+  Mechatronics (ICRoM)},  pp. 59--65. IEEE, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{blueml2021bias}
 Blueml, Julian, Fornasier, Alessandro, and Weiss, Stephan.
 \newblock Bias compensated uwb anchor initialization using
@@ -805,6 +753,15 @@ Id{\`a}, Edoardo, Briot, S{\'e}bastien, and Carricato, Marco.
 Pott, Andreas and Bruckmann, Tobias.
 \newblock {\em Cable-driven parallel robots}.
 \newblock Springer, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{irvine1978free}
+Irvine, H~Max.
+\newblock Free vibrations of inclined cables.
+\newblock {\em Journal of the Structural Division}, 104(2):343--347, 1978.
 
 \end{LTRbibitems}
 

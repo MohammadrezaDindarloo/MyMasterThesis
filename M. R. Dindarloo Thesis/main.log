@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.4.26)  10 SEP 2024 22:54
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.4.26)  22 SEP 2024 15:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2801,6 +2801,10 @@ Overfull \hbox (12.81538pt too wide) in paragraph at lines 42--46
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
  [7] (./main.mw)
 \openout5 = `main.mw'.
 
@@ -2808,12 +2812,8 @@ Overfull \hbox (12.81538pt too wide) in paragraph at lines 42--46
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-
-Overfull \hbox (1.38728pt too wide) in paragraph at lines 101--102
+Overfull \hbox (1.38728pt too wide) in paragraph at lines 98--99
 [][]\TU/IRLotusICEE.ttf(0)/b/n/12 بررسی جامع ادبیات و تحلیل مشکلات موجود: \TU/I
 RLotusICEE.ttf(1)/b/n/12 در گام اول، به منظور شناسایی مشکلات و چالش‌های[]
  []
@@ -2836,14 +2836,14 @@ RLotusICEE.ttf(1)/b/n/12 در گام اول، به منظور شناسایی م�
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 )
 \openout5 = `main.mw'.
 
  [10] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/chapter2.aux'.
@@ -3118,7 +3118,7 @@ Overfull \hbox (0.55284pt too wide) in paragraph at lines 116--118
 \openout5 = `main.mw'.
 
 
-Underfull \vbox (badness 1997) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
@@ -3216,9 +3216,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (2.69974pt too wide) in paragraph at lines 14--14
+Overfull \hbox (13.3512pt too wide) in paragraph at lines 14--14
 [][]\TU/IRLotusICEE.ttf(0)/b/n/17.28 توسعه گراف عامل برای یک ربات چهار کابلی با
- فرض کابل صلب []
+ فرض کابل منعطف []
  []
 
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
@@ -3238,22 +3238,30 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
 
 File: img/arascam.pdf Graphic file (type pdf)
 <use img/arascam.pdf>
-\openout5 = `main.mw'.
 
- [39] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+ [39]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [40] (./main.mw)
 \openout5 = `main.mw'.
 
 
-Underfull \vbox (badness 3088) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [40]
+(./main.mw)
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
@@ -3268,7 +3276,7 @@ Underfull \vbox (badness 3088) has occurred while \output is active []
 File: img/rigidcable_factorgraph.pdf Graphic file (type pdf)
 <use img/rigidcable_factorgraph.pdf>
 
-Overfull \vbox (18.51907pt too high) has occurred while \output is active []
+Overfull \vbox (4.37949pt too high) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
@@ -3280,13 +3288,9 @@ Overfull \vbox (18.51907pt too high) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 \openout5 = `main.mw'.
 
- [43]
-(./main.mw)
+ [43] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3303,7 +3307,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (5.2638pt too wide) in paragraph at lines 246--249
+Overfull \hbox (5.2638pt too wide) in paragraph at lines 244--247
 []\TU/IRLotusICEE.ttf(1)/b/n/12 ماتریس‌های کوواریانس نویز در دست داشته باشیم.رو
 شی که برای دستیابی به این موارد معرفی می کنیم، الگوریتمی[]
  []
@@ -3320,11 +3324,9 @@ File: img/monte_carlo.pdf Graphic file (type pdf)
 \openout5 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 285.
+(Font)              scaled to size 11.99997pt on input line 283.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
-(Font)              scaled to size 5.99998pt on input line 285.
-File: img/calibration_result_rigid.pdf Graphic file (type pdf)
-<use img/calibration_result_rigid.pdf>
+(Font)              scaled to size 5.99998pt on input line 283.
 \openout5 = `main.mw'.
 
  [46] (./main.mw)
@@ -3334,15 +3336,17 @@ File: img/calibration_result_rigid.pdf Graphic file (type pdf)
 
 \openout5 = `main.mw'.
 
+File: img/calibration_result_rigid.pdf Graphic file (type pdf)
+<use img/calibration_result_rigid.pdf>
 File: img/trajectory_and_pully_in_rigid_cable.pdf Graphic file (type pdf)
 <use img/trajectory_and_pully_in_rigid_cable.pdf>
-\openout5 = `main.mw'.
 
- [47] (./main.mw)
-\openout5 = `main.mw'.
+Overfull \vbox (15.46883pt too high) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+
+[47] (./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -3354,19 +3358,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./main.mw)
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [49] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [49]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
  [50] (./main.mw)
@@ -3637,7 +3642,7 @@ Overfull \hbox (3.64272pt too wide) in paragraph at lines 40--42
 \openout5 = `main.mw'.
 
 
-Overfull \hbox (2.37169pt too wide) in paragraph at lines 57--59
+Overfull \hbox (2.37169pt too wide) in paragraph at lines 54--56
 [][]\TU/IRLotusICEE.ttf(0)/b/n/12 توسعه فرمول‌بندی ریاضی بیان شده به ریاضیات اج
 زای محدود به جای مدل‌های فعلی معرفی‌شده:[]
  []
@@ -3709,17 +3714,17 @@ o, Se-Hyoung, Hong, Young-Dae, and Kim, Jong-[]
  [78] (./main.mw)
 \openout5 = `main.mw'.
 
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
+(Font)              scaled to size 13.13995pt on input line 783.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/bx/n' will be
+(Font)              scaled to size 13.13995pt on input line 783.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
+(Font)              scaled to size 13.13995pt on input line 783.
 \openout5 = `main.mw'.
 
  [79] (./main.mw)
 \openout5 = `main.mw'.
 
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 826.
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/bx/n' will be
-(Font)              scaled to size 13.13995pt on input line 826.
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
-(Font)              scaled to size 13.13995pt on input line 826.
 )
 \openout5 = `main.mw'.
 
@@ -4315,7 +4320,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
 \openout5 = `main.out'.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7DC9087EDDC386480748F5D172DBE084;6950.
+(rerunfilecheck)             Checksum: BB509C52F7C23988D897AAD716223FE3;6958.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -4339,10 +4344,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 39737 strings out of 479819
- 751926 string characters out of 5895846
- 1186620 words of memory out of 5000000
- 55535 multiletter control sequences out of 15000+600000
+ 39733 strings out of 479819
+ 751852 string characters out of 5895846
+ 1187655 words of memory out of 5000000
+ 55531 multiletter control sequences out of 15000+600000
  549974 words of font info for 166 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  76i,26n,92p,4840b,590s stack positions out of 5000i,500n,10000p,200000b,80000s

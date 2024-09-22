@@ -10,104 +10,102 @@ A level-1 auxiliary file: ./tex/chapter6.aux
 The style file: unsrt-fa.bst
 A level-1 auxiliary file: ./tex/appendix1.aux
 Database file #1: ./tex/MyReferences.bib
-Repeated entry---line 281 of file ./tex/MyReferences.bib
+Repeated entry---line 292 of file ./tex/MyReferences.bib
  : @inproceedings{ida2019automatic
  :                                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 375 of file ./tex/MyReferences.bib
+Repeated entry---line 386 of file ./tex/MyReferences.bib
  : @inproceedings{khorrambakht2023graph
  :                                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 423 of file ./tex/MyReferences.bib
+Repeated entry---line 434 of file ./tex/MyReferences.bib
  : @book{pott2013cable
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 430 of file ./tex/MyReferences.bib
+Repeated entry---line 441 of file ./tex/MyReferences.bib
  : @inproceedings{allak2022kinematics
  :                                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 515 of file ./tex/MyReferences.bib
+Repeated entry---line 526 of file ./tex/MyReferences.bib
  : @article{dellaert2012factor
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 662 of file ./tex/MyReferences.bib
+Repeated entry---line 673 of file ./tex/MyReferences.bib
  : @article{elatta2004overview
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 857 of file ./tex/MyReferences.bib
+Repeated entry---line 868 of file ./tex/MyReferences.bib
  : @inproceedings{hassani2021kinematic
  :                                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 879 of file ./tex/MyReferences.bib
+Repeated entry---line 890 of file ./tex/MyReferences.bib
  : @article{jin2018geometric
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 893 of file ./tex/MyReferences.bib
+Repeated entry---line 904 of file ./tex/MyReferences.bib
  : @inproceedings{an2022all
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 905 of file ./tex/MyReferences.bib
+Repeated entry---line 916 of file ./tex/MyReferences.bib
  : @inproceedings{burgard1997active
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1152 of file ./tex/MyReferences.bib
+Repeated entry---line 1163 of file ./tex/MyReferences.bib
  : @inproceedings{burgard1997active
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1273 of file ./tex/MyReferences.bib
+Repeated entry---line 1284 of file ./tex/MyReferences.bib
  : @article{song2021tightly
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1297 of file ./tex/MyReferences.bib
+Repeated entry---line 1308 of file ./tex/MyReferences.bib
  : @article{dai2022uav
  :                    ,
 I'm skipping whatever remains of this entry
 -- unsrt-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
-Warning--empty journal in filtermobile
-Warning--empty year in filtermobile
 Warning--empty journal in ida2021dynamics
 
 Done.
-You've used 83 entries,
+You've used 79 entries,
             2198 wiz_defined-function locations,
-            1029 strings with 22001 characters,
-and the built_in function-call counts, 26371 in all, are:
-= -- 2327
-> -- 1114
-< -- 31
-+ -- 402
-- -- 319
-* -- 1755
-:= -- 3691
-add.period$ -- 276
-call.type$ -- 83
-change.case$ -- 80
+            1014 strings with 21119 characters,
+and the built_in function-call counts, 25006 in all, are:
+= -- 2207
+> -- 1052
+< -- 29
++ -- 380
+- -- 301
+* -- 1669
+:= -- 3505
+add.period$ -- 263
+call.type$ -- 79
+change.case$ -- 76
 chr.to.int$ -- 0
-cite$ -- 86
-duplicate$ -- 1101
-empty$ -- 2340
-format.name$ -- 319
-if$ -- 6310
+cite$ -- 80
+duplicate$ -- 1040
+empty$ -- 2224
+format.name$ -- 301
+if$ -- 5978
 int.to.chr$ -- 0
-int.to.str$ -- 83
-missing$ -- 387
-newline$ -- 752
-num.names$ -- 83
-pop$ -- 275
+int.to.str$ -- 79
+missing$ -- 367
+newline$ -- 717
+num.names$ -- 79
+pop$ -- 256
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 597
+skip$ -- 560
 stack$ -- 0
-substring$ -- 2029
-swap$ -- 382
-text.length$ -- 31
+substring$ -- 1932
+swap$ -- 357
+text.length$ -- 29
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
-warning$ -- 3
-while$ -- 242
-width$ -- 85
-write$ -- 1183
+warning$ -- 1
+while$ -- 230
+width$ -- 81
+write$ -- 1129
 (There were 13 error messages)

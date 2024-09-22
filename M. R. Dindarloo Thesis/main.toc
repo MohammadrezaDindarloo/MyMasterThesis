@@ -4,11 +4,11 @@
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}بیان مسئله}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}ربات انتخابی برای بررسی نتایج تحقیق}{6}{section.1.2}%
-\contentsline {section}{\numberline {1.3}اهمیت تحقیق}{7}{section.1.3}%
+\contentsline {section}{\numberline {1.3}اهمیت تحقیق}{6}{section.1.3}%
 \contentsline {section}{\numberline {1.4}اهداف تحقیق}{7}{section.1.4}%
 \contentsline {section}{\numberline {1.5}روش تحقیق}{8}{section.1.5}%
 \contentsline {section}{\numberline {1.6}دستاورد‌های تحقیق}{9}{section.1.6}%
-\contentsline {section}{\numberline {1.7}معرفی سایر فصل‌ها}{10}{section.1.7}%
+\contentsline {section}{\numberline {1.7}معرفی سایر فصل‌ها}{9}{section.1.7}%
 \contentsline {chapter}{\numberline {2}مروری بر پژوهش‌ها}{11}{chapter.2}%
 \contentsline {section}{\numberline {2.1}مروری بر پژوهش‌های انجام شده در حوزه کالیبراسیون}{11}{section.2.1}%
 \contentsline {section}{\numberline {2.2}مروری بر پژوهش‌های انجام شده در حوزه مکان‌یابی}{14}{section.2.2}%
@@ -31,9 +31,9 @@
 \contentsline {subsection}{\numberline {3.4.1}بیان الگوریتم گراف عامل}{30}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}گراف عامل پیشنهادی برای کالیبراسیون و مکان یابی به صورت همزمان}{31}{subsection.3.4.2}%
 \contentsline {section}{\numberline {3.5}نتیجه‌گیری}{36}{section.3.5}%
-\contentsline {chapter}{\numberline {4}پیاده سازی رویکرد مبتنی بر گراف جهت مکان‌یابی و کالیبراسیون همزمان برای ربات‌های کابلی صلب}{37}{chapter.4}%
+\contentsline {chapter}{\numberline {4}پیاده سازی رویکرد مبتنی بر گراف جهت مکان‌یابی و کالیبراسیون همزمان برای ربات‌های کابلی منعطف}{37}{chapter.4}%
 \contentsline {section}{\numberline {4.1}انتخاب ربات مناسب جهت توسعه الگوریتم}{37}{section.4.1}%
-\contentsline {section}{\numberline {4.2}توسعه گراف عامل برای یک ربات چهار کابلی با فرض کابل صلب}{38}{section.4.2}%
+\contentsline {section}{\numberline {4.2}توسعه گراف عامل برای یک ربات چهار کابلی با فرض کابل منعطف}{38}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}معرفی ربات کابلی ARASCam}{38}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}بیان فرمول‌بندی مسئله و فرضیات}{39}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}رویت‌پذیری}{41}{subsection.4.2.3}%
@@ -42,7 +42,7 @@
 \contentsline {subsection}{\numberline {4.4.1}راه‌اندازی سیستم و فرضیات}{44}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.2}کالیبراسیون خودکار بدون پارامترهای اولیه}{45}{subsection.4.4.2}%
 \contentsline {subsection}{\numberline {4.4.3}ترکیب بینایی-سینماتیک و استفاده از گراف عامل معرفی شده}{46}{subsection.4.4.3}%
-\contentsline {subsection}{\numberline {4.4.4}انتشار عدم قطعیت}{47}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.4}انتشار عدم قطعیت}{48}{subsection.4.4.4}%
 \contentsline {section}{\numberline {4.5}بحث و گفت‌وگو}{49}{section.4.5}%
 \contentsline {section}{\numberline {4.6}نتیجه‌گیری}{50}{section.4.6}%
 \contentsline {chapter}{\numberline {5}پیاده سازی رویکرد مبتنی بر گراف جهت مکان‌یابی و کالیبراسیون همزمان برای ربات هایی با کابل های شکم داده}{51}{chapter.5}%
